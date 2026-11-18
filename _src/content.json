@@ -1,7 +1,10 @@
 {
  "edition": "2026-11-18",
  "lead": "gta-vi-reviews-metacritic-99",
- "leadCallout": { "big": "99", "small": "Metacritic score for GTA VI on PS5, from about 147 critic reviews, all positive" },
+ "leadCallout": {
+  "big": "99",
+  "small": "Metacritic score for GTA VI on PS5, from about 147 critic reviews, all positive"
+ },
  "articles": [
   {
    "slug": "gta-vi-reviews-metacritic-99",
@@ -9,12 +12,94 @@
    "date": "2026-11-18",
    "title": "GTA VI reviews are in, and it just tied the highest Metacritic score ever",
    "dek": "Rockstar's game opened at 99 on Metacritic when the review embargo lifted, matching Ocarina of Time's 1998 record. Here's what critics loved and what they didn't.",
-   "facts": [["Metacritic (PS5)", "99, from about 147 reviews"], ["OpenCritic", "98"], ["Lowest score", "80 (ScreenHub)"], ["Perfect scores", "IGN, GameSpot and many more"], ["Release", "Thursday, November 19"], ["Platforms", "PS5, Xbox Series X|S"]],
+   "facts": [
+    [
+     "Metacritic (PS5)",
+     "99, from about 147 reviews"
+    ],
+    [
+     "OpenCritic",
+     "98"
+    ],
+    [
+     "Lowest score",
+     "80 (ScreenHub)"
+    ],
+    [
+     "Perfect scores",
+     "IGN, GameSpot and many more"
+    ],
+    [
+     "Release",
+     "Thursday, November 19"
+    ],
+    [
+     "Platforms",
+     "PS5, Xbox Series X|S"
+    ]
+   ],
    "body": "Grand Theft Auto VI's review embargo lifted early on Wednesday, November 18, and the game immediately settled at a 99 on Metacritic. That ties The Legend of Zelda: Ocarina of Time, which has sat at the top of the site's all-time chart since 1998.\nThe sample sizes aren't comparable. Ocarina's 99 comes from a couple of dozen reviews written before online criticism exploded, while GTA VI reached the same number across roughly 147 PS5 reviews, every one of them positive. On OpenCritic it sits at 98, making it the top-rated game on both aggregators. IGN and GameSpot were among the outlets awarding a perfect 10.\n## What critics flagged\nThe praise wasn't unconditional. The lowest score so far, an 80 from Australian outlet ScreenHub, called some stretches epic and others dull and restrictive. The Guardian's review liked the game but found the controls complicated and occasionally unfair. Bloomberg's Jason Schreier felt the story doesn't hit the emotional peaks of Red Dead Redemption 2.\n## The money side\nInvestors noticed. Shares in Take-Two Interactive, Rockstar's parent company, climbed as much as 8.4% in New York trading on the news.\n## What happens next\nLaunch-day scores often drift as more reviews arrive, and player verdicts after release can look different from critics'. We'll keep an eye on both. GTA VI launches Thursday, November 19 on PlayStation 5 and Xbox Series X|S.",
    "sources": [
-    {"name": "The Next Web", "url": "https://thenextweb.com/news/gta-vi-metacritic-99-reviews-30fps-launch"},
-    {"name": "Tom's Guide: review roundup", "url": "https://www.tomsguide.com/news/live/gta-6-review-roundup-live-updates"},
-    {"name": "Windows Central", "url": "https://www.windowscentral.com/gaming/gta-vi-review-roundup-calling-it-the-highest-rated-game-ever-on-metacritic-still-doesnt-do-it-justice"}
+    {
+     "name": "The Next Web",
+     "url": "https://thenextweb.com/news/gta-vi-metacritic-99-reviews-30fps-launch"
+    },
+    {
+     "name": "Tom's Guide: review roundup",
+     "url": "https://www.tomsguide.com/news/live/gta-6-review-roundup-live-updates"
+    },
+    {
+     "name": "Windows Central",
+     "url": "https://www.windowscentral.com/gaming/gta-vi-review-roundup-calling-it-the-highest-rated-game-ever-on-metacritic-still-doesnt-do-it-justice"
+    }
+   ]
+  },
+  {
+   "slug": "gta-vi-unlock-times-by-region",
+   "section": "news",
+   "date": "2026-11-18",
+   "title": "What time does GTA VI unlock? Launch times by region",
+   "dek": "GTA VI unlocks at midnight local time on November 19, so New Zealand plays first and the Americas last. In the US, that means 9 PM Pacific tonight.",
+   "facts": [
+    [
+     "Rule",
+     "Midnight local time, November 19"
+    ],
+    [
+     "First region",
+     "New Zealand (11:00 UTC Nov 18)"
+    ],
+    [
+     "UK",
+     "Midnight GMT"
+    ],
+    [
+     "United States",
+     "Midnight Eastern / 9 PM Pacific Nov 18"
+    ],
+    [
+     "Last region",
+     "Mexico, parts of Central America"
+    ],
+    [
+     "Spread",
+     "About 19 hours"
+    ]
+   ],
+   "body": "Grand Theft Auto VI doesn't unlock everywhere at once. It goes live at midnight local time on Thursday, November 19, so the release rolls around the globe over most of a day.\n## The rollout\nRegional PlayStation Store listings, gathered by fan site GTAVice and reported by Digital Foundry, show 15 launch windows across 63 countries:\n- New Zealand first, at midnight NZDT, which is 11:00 UTC on Wednesday, November 18.\n- Australia next, at midnight AEDT (13:00 UTC on the 18th), then Japan and South Korea at 15:00 UTC.\n- Mainland Europe at midnight CET (23:00 UTC on the 18th), then the UK and Ireland at midnight GMT.\n- The US and Canada at midnight Eastern Time (05:00 UTC on the 19th).\n- Mexico and parts of Central America last, at 06:00 UTC.\n## West Coast players get it early\nThe US listing uses a single nationwide unlock at midnight Eastern, so players on the West Coast can start at 9 PM Pacific on Wednesday night.\n## Xbox\nThe midnight-local-time rule covers both PS5 and Xbox Series X|S. Xbox's store doesn't publish an exact hour for each country, so Xbox players should plan on midnight local time.\nMake sure your pre-load has finished before then. On PS5, you also need system update 14.23 installed first.",
+   "sources": [
+    {
+     "name": "Stevivor (citing Digital Foundry)",
+     "url": "https://stevivor.com/news/gta-6-ps5-unlock-schedule-shows-australia-among-the-first-in-hours-before-north/"
+    },
+    {
+     "name": "God is a Geek",
+     "url": "https://godisageek.com/2026/09/gta-6-release-times-by-region/"
+    },
+    {
+     "name": "IBTimes UK",
+     "url": "https://www.ibtimes.co.uk/gta-6-global-release-new-zealand-trick-1818531"
+    }
    ]
   },
   {
@@ -23,11 +108,42 @@
    "date": "2026-11-18",
    "title": "GTA VI runs at 30fps on every console: resolutions, PS5 Pro extras and the update you need",
    "dek": "There's no performance mode in GTA VI. Rockstar says 30fps was always the target on this generation of hardware. Here's how each console renders the game.",
-   "facts": [["Frame rate", "30fps on all consoles"], ["PS5 / Series X", "1440p upscaled to 4K"], ["PS5 Pro", "PSSR2 upscaling, ray-traced shadows"], ["Series S", "720p, FSR 4 to 1080p"], ["PS5 system update", "14.23 (required)"], ["Download", "Up to 212 GB"]],
+   "facts": [
+    [
+     "Frame rate",
+     "30fps on all consoles"
+    ],
+    [
+     "PS5 / Series X",
+     "1440p upscaled to 4K"
+    ],
+    [
+     "PS5 Pro",
+     "PSSR2 upscaling, ray-traced shadows"
+    ],
+    [
+     "Series S",
+     "720p, FSR 4 to 1080p"
+    ],
+    [
+     "PS5 system update",
+     "14.23 (required)"
+    ],
+    [
+     "Download",
+     "Up to 212 GB"
+    ]
+   ],
    "body": "If you were hoping for a 60fps option in Grand Theft Auto VI, there isn't one. The game targets 30 frames per second on every console, and Rockstar has said that, given how much it wanted to put into the world, it planned for 30fps on this hardware generation from the start.\n## How each console renders it\n- PS5 and Xbox Series X: renders at 1440p and upscales to 4K.\n- PS5 Pro: uses Sony's PSSR2 upscaler for a similar 4K output, with improved image clarity and ray-traced shadows.\n- Xbox Series S: renders at 720p and uses AMD's FSR 4 to reach 1080p.\n## Before you play\nPS5 owners need system software update 14.23, which Sony released on November 17 and marked as mandatory. Install it before launch night so you're not stuck waiting at midnight.\nThe download is big: up to 212 GB depending on your console. Boxed copies hold a download code rather than a disc, so you'll need the space either way. Digital pre-loading is already open.\nThe Standard Edition costs $80. Rockstar's parent Take-Two said last week that pre-orders beat its expectations, and GTA VI has become the most pre-ordered game in PlayStation Store and Xbox Store history.",
    "sources": [
-    {"name": "The Next Web", "url": "https://thenextweb.com/news/gta-vi-metacritic-99-reviews-30fps-launch"},
-    {"name": "Game Informer", "url": "https://gameinformer.com/opinion/2026/11/13/the-video-games-and-more-you-should-play-this-weekend-november-13-2026"}
+    {
+     "name": "The Next Web",
+     "url": "https://thenextweb.com/news/gta-vi-metacritic-99-reviews-30fps-launch"
+    },
+    {
+     "name": "Game Informer",
+     "url": "https://gameinformer.com/opinion/2026/11/13/the-video-games-and-more-you-should-play-this-weekend-november-13-2026"
+    }
    ]
   },
   {
@@ -36,12 +152,38 @@
    "date": "2026-11-17",
    "title": "The Game Awards 2026 nominees: GTA VI leads with eight, Ocarina of Time remake in the GOTY race",
    "dek": "Six games are up for Game of the Year at the December 10 show, and fan voting is open now.",
-   "facts": [["Show date", "Thursday, December 10"], ["Most nominations", "GTA VI (8)"], ["Next most", "Control Resonant, Resident Evil Requiem (6 each)"], ["Fan voting", "Open now"]],
+   "facts": [
+    [
+     "Show date",
+     "Thursday, December 10"
+    ],
+    [
+     "Most nominations",
+     "GTA VI (8)"
+    ],
+    [
+     "Next most",
+     "Control Resonant, Resident Evil Requiem (6 each)"
+    ],
+    [
+     "Fan voting",
+     "Open now"
+    ]
+   ],
    "body": "The nominees for The Game Awards 2026 are out, and the Game of the Year shortlist is one of the strongest in years. The show airs on Thursday, December 10.\n## Game of the Year nominees\n- 007 First Light (IO Interactive)\n- Control Resonant (Remedy / Annapurna)\n- Grand Theft Auto VI (Rockstar Games)\n- Phantom Blade Zero (S-GAME)\n- Resident Evil Requiem (Capcom)\n- The Legend of Zelda: Ocarina of Time (Nintendo)\n## Who's leading\nGTA VI tops the field with eight nominations, including Game of the Year, Best Game Direction, Best Narrative and Best Performance. It's an unusual position for a game that isn't even out yet as the nominations land. Control Resonant and Resident Evil Requiem have six each, Phantom Blade Zero has five and 007 First Light has four.\nNintendo's Ocarina of Time remake for Switch 2 makes the main shortlist and also picks up nods for Best Art Direction and Best Score and Music. It's a rare case of a remake competing for the top prize.\nFan voting is open on The Game Awards website now. We'll cover the show and every winner on the night.",
    "sources": [
-    {"name": "Nintendo Everything: full list", "url": "https://nintendoeverything.com/the-game-awards-2026-nominees-announced-full-list-zelda-ocarina-of-time-nominated-for-game-of-the-year-and-more/"},
-    {"name": "PC Guide", "url": "https://www.pcguide.com/news/the-game-awards-2026-nominees-for-every-category-including-game-of-the-year/"},
-    {"name": "Dexerto", "url": "https://www.dexerto.com/gaming/the-game-awards-2026-3428374/"}
+    {
+     "name": "Nintendo Everything: full list",
+     "url": "https://nintendoeverything.com/the-game-awards-2026-nominees-announced-full-list-zelda-ocarina-of-time-nominated-for-game-of-the-year-and-more/"
+    },
+    {
+     "name": "PC Guide",
+     "url": "https://www.pcguide.com/news/the-game-awards-2026-nominees-for-every-category-including-game-of-the-year/"
+    },
+    {
+     "name": "Dexerto",
+     "url": "https://www.dexerto.com/gaming/the-game-awards-2026-3428374/"
+    }
    ]
   },
   {
@@ -50,11 +192,30 @@
    "date": "2026-11-18",
    "title": "Firaxis cuts about a third of its staff as layoffs hit Crystal Dynamics and Netflix Games",
    "dek": "The Civilization studio loses around 60 people, per Bloomberg, in a week of cuts across the industry.",
-   "facts": [["Firaxis", "About 60 jobs, roughly a third of staff"], ["Crystal Dynamics", "8 jobs, sixth round since 2022"], ["Netflix Games", "Unknown number, restructuring"]],
+   "facts": [
+    [
+     "Firaxis",
+     "About 60 jobs, roughly a third of staff"
+    ],
+    [
+     "Crystal Dynamics",
+     "8 jobs, sixth round since 2022"
+    ],
+    [
+     "Netflix Games",
+     "Unknown number, restructuring"
+    ]
+   ],
    "body": "Launch week for the biggest game of the decade is also a week of job losses elsewhere in the industry.\n## Firaxis\nFiraxis, the studio behind Civilization and XCOM, has laid off around 60 people, about a third of its workforce, according to Bloomberg. The same reporting says a new XCOM game is in the works. Firaxis is owned by 2K, part of Take-Two, which is about to release GTA VI. The studio has been cut before: there were layoffs in 2023 and again in September 2025, after Civilization VII's slow start.\n## Crystal Dynamics\nThe Tomb Raider developer has let eight more employees go. That's the sixth round of layoffs at the studio since Embracer Group bought it in 2022.\n## Netflix Games\nNetflix's games division has also made layoffs, though it hasn't said how many. A game director there described it as a restructuring while the team changes how it approaches making games.\nWe'll update this story as studios share more.",
    "sources": [
-    {"name": "This Week in Videogames", "url": "https://thisweekinvideogames.com/"},
-    {"name": "Game Informer", "url": "https://gameinformer.com/opinion/2026/11/13/the-video-games-and-more-you-should-play-this-weekend-november-13-2026"}
+    {
+     "name": "This Week in Videogames",
+     "url": "https://thisweekinvideogames.com/"
+    },
+    {
+     "name": "Game Informer",
+     "url": "https://gameinformer.com/opinion/2026/11/13/the-video-games-and-more-you-should-play-this-weekend-november-13-2026"
+    }
    ]
   },
   {
@@ -63,11 +224,34 @@
    "date": "2026-11-13",
    "title": "Zelda: Ocarina of Time remake sells 5.2 million in four days, a Switch 2 record",
    "dek": "Nintendo's rebuilt classic is now the fastest-selling game on Switch 2.",
-   "facts": [["Released", "November 5, 2026"], ["Sales", "Over 5.2 million in 4 days"], ["Platform", "Nintendo Switch 2"], ["Record", "Fastest-selling Switch 2 game"]],
+   "facts": [
+    [
+     "Released",
+     "November 5, 2026"
+    ],
+    [
+     "Sales",
+     "Over 5.2 million in 4 days"
+    ],
+    [
+     "Platform",
+     "Nintendo Switch 2"
+    ],
+    [
+     "Record",
+     "Fastest-selling Switch 2 game"
+    ]
+   ],
    "body": "Nintendo says The Legend of Zelda: Ocarina of Time for Switch 2 sold more than 5.2 million copies worldwide in its first four days. That makes it the fastest-selling game on the console so far.\nThe remake launched on November 5 as a major modern overhaul of the 1998 Nintendo 64 classic, the same game whose 99 Metacritic score GTA VI tied this week. It's also one of six Game of the Year nominees at The Game Awards 2026.\n## Also new on Switch 2\nNintendo had a busy week beyond Zelda. Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy came out on November 12, and the eShop now lets you gift digital games to members of your family group. The second part of Pokémon Pokopia's paid expansion, Dazzling Decorations, arrives December 9.",
    "sources": [
-    {"name": "Nintendo: news", "url": "https://www.nintendo.com/ph/news/list?c=Nintendo+Switch+2"},
-    {"name": "Game Informer", "url": "https://gameinformer.com/opinion/2026/11/13/the-video-games-and-more-you-should-play-this-weekend-november-13-2026"}
+    {
+     "name": "Nintendo: news",
+     "url": "https://www.nintendo.com/ph/news/list?c=Nintendo+Switch+2"
+    },
+    {
+     "name": "Game Informer",
+     "url": "https://gameinformer.com/opinion/2026/11/13/the-video-games-and-more-you-should-play-this-weekend-november-13-2026"
+    }
    ]
   },
   {
@@ -76,12 +260,42 @@
    "date": "2026-11-13",
    "title": "Wolfenstein 3 is officially in production at MachineGames",
    "dek": "Xbox confirmed the sequel as part of its 25th anniversary celebrations, nine years after The New Colossus.",
-   "facts": [["Developer", "MachineGames"], ["Publisher", "Xbox / Bethesda"], ["Announced", "November 12, 2026"], ["Platforms", "Not announced"], ["Release", "Not announced"]],
+   "facts": [
+    [
+     "Developer",
+     "MachineGames"
+    ],
+    [
+     "Publisher",
+     "Xbox / Bethesda"
+    ],
+    [
+     "Announced",
+     "November 12, 2026"
+    ],
+    [
+     "Platforms",
+     "Not announced"
+    ],
+    [
+     "Release",
+     "Not announced"
+    ]
+   ],
    "body": "B.J. Blazkowicz is coming back. Xbox CEO Asha Sharma announced on X that Wolfenstein 3 is officially in production at MachineGames, as part of a run of announcements marking Xbox's 25th anniversary. The post showed a photographed page from the game's script.\nThe Swedish studio followed with its own confirmation: \"His reputation precedes him.\"\n## Where it fits\nThe last mainline game, Wolfenstein II: The New Colossus, came out in 2017. MachineGames spent much of the time since on Indiana Jones and the Great Circle, released in December 2024. The studio's leadership has said before that the modern series was always planned as a trilogy.\nReports say Brian Bloom and Debra Wilson return as B.J. Blazkowicz and Grace Walker. There are no platforms, release window or gameplay yet. Because production has only just started, don't expect a proper reveal for a while.",
    "sources": [
-    {"name": "Game Informer", "url": "https://gameinformer.com/2026/11/13/wolfenstein-3-is-officially-in-production"},
-    {"name": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/machinegames-has-finally-officially-confirmed-that-wolfenstein-3-is-in-development/"},
-    {"name": "eXputer", "url": "https://exputer.com/?p=446351"}
+    {
+     "name": "Game Informer",
+     "url": "https://gameinformer.com/2026/11/13/wolfenstein-3-is-officially-in-production"
+    },
+    {
+     "name": "Video Games Chronicle",
+     "url": "https://www.videogameschronicle.com/news/machinegames-has-finally-officially-confirmed-that-wolfenstein-3-is-in-development/"
+    },
+    {
+     "name": "eXputer",
+     "url": "https://exputer.com/?p=446351"
+    }
    ]
   },
   {
@@ -90,12 +304,38 @@
    "date": "2026-11-12",
    "title": "Rockstar's UK staff vote on union recognition during GTA VI launch week",
    "dek": "The ballot runs from November 12 to 26. A yes vote would create the largest recognized union in the UK games industry.",
-   "facts": [["Ballot", "November 12–26, 2026"], ["Union", "IWGB Rockstar Game Workers Union"], ["Eligible staff", "About 1,600 in the UK"], ["Separate case", "Tribunal over 31 dismissals"]],
+   "facts": [
+    [
+     "Ballot",
+     "November 12–26, 2026"
+    ],
+    [
+     "Union",
+     "IWGB Rockstar Game Workers Union"
+    ],
+    [
+     "Eligible staff",
+     "About 1,600 in the UK"
+    ],
+    [
+     "Separate case",
+     "Tribunal over 31 dismissals"
+    ]
+   ],
    "body": "While the world waits for GTA VI, the people who made it are voting. Rockstar Games' UK employees have until November 26 to decide whether the company should formally recognize the IWGB Rockstar Game Workers Union, a ballot that runs right across the game's November 19 launch.\nThe union says about 1,600 staff can vote. If the vote passes, the union would become the largest recognized union in the UK games industry, with a say on pay, bonuses, overtime, redundancies and policies on generative AI. The vote covers recognition only, not strike action.\n## The tribunal\nThe ballot is separate from an employment tribunal in Glasgow over 31 workers Rockstar fired in October 2025. The IWGB says they were dismissed for union organizing. Rockstar says they were dismissed for gross misconduct. The judge hasn't set a date for a ruling.\nWe'll report the result when the ballot closes.",
    "sources": [
-    {"name": "The Register", "url": "https://www.theregister.com/a/5309319"},
-    {"name": "PC Gamer", "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/"},
-    {"name": "Game Developer", "url": "https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release"}
+    {
+     "name": "The Register",
+     "url": "https://www.theregister.com/a/5309319"
+    },
+    {
+     "name": "PC Gamer",
+     "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/"
+    },
+    {
+     "name": "Game Developer",
+     "url": "https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release"
+    }
    ]
   },
   {
@@ -104,28 +344,492 @@
    "date": "2026-11-10",
    "title": "PlayStation cancels Fairgames, but Haven Studios keeps its staff",
    "dek": "The heist shooter revealed in 2023 is dead after a playtest missed internal targets. No one is losing their job.",
-   "facts": [["Game", "Fairgames (Fairgame$)"], ["Studio", "Haven Studios, Montreal"], ["Revealed", "May 2023"], ["Layoffs", "None"]],
+   "facts": [
+    [
+     "Game",
+     "Fairgames (Fairgame$)"
+    ],
+    [
+     "Studio",
+     "Haven Studios, Montreal"
+    ],
+    [
+     "Revealed",
+     "May 2023"
+    ],
+    [
+     "Layoffs",
+     "None"
+    ]
+   ],
    "body": "Sony has cancelled Fairgames, the online heist shooter Haven Studios had been building for PS5 and PC, Bloomberg reported. According to an internal email, a recent playtest fell short of what the team was aiming for.\nUnusually for a PlayStation cancellation, nobody is being laid off. Haven will stay open and move into a support role, working with other PlayStation Studios teams while it looks for new projects. Sony hasn't said which games it will help with.\n## A troubled project\nFairgames debuted at the PlayStation Showcase in May 2023, pitched as a modern heist game about robbing the super rich. Jade Raymond founded Haven in 2021, Sony bought the studio in 2022, and Raymond left in 2025. It's the latest in a string of live-service projects PlayStation has dropped, following Concord's shutdown and The Last of Us Online's cancellation.",
    "sources": [
-    {"name": "Game Developer", "url": "https://www.gamedeveloper.com/console/report-playstation-s-fairgame-cancelled-but-haven-studios-remains"},
-    {"name": "God is a Geek", "url": "https://godisageek.com/2026/11/playstation-cancels-fairgames-haven-studios/"},
-    {"name": "Wccftech", "url": "https://wccftech.com/fairgames-canceled-playstation-live-service/"}
+    {
+     "name": "Game Developer",
+     "url": "https://www.gamedeveloper.com/console/report-playstation-s-fairgame-cancelled-but-haven-studios-remains"
+    },
+    {
+     "name": "God is a Geek",
+     "url": "https://godisageek.com/2026/11/playstation-cancels-fairgames-haven-studios/"
+    },
+    {
+     "name": "Wccftech",
+     "url": "https://wccftech.com/fairgames-canceled-playstation-live-service/"
+    }
+   ]
+  },
+  {
+   "slug": "gta-vi-hacker-arion-kurtaj-pleads-guilty",
+   "section": "news",
+   "date": "2026-11-16",
+   "title": "The hacker behind the 2022 GTA VI leak pleads guilty",
+   "dek": "Arion Kurtaj, who posted about 90 clips of an early GTA VI build, admitted the Rockstar breach in a London court three days before launch.",
+   "facts": [
+    [
+     "Who",
+     "Arion Kurtaj, 21"
+    ],
+    [
+     "Court",
+     "Woolwich Crown Court, London"
+    ],
+    [
+     "Plea",
+     "Guilty, November 16, 2026"
+    ],
+    [
+     "Leak",
+     "About 90 clips, September 2022"
+    ],
+    [
+     "Rockstar's cost",
+     "$5 million, per the BBC"
+    ]
+   ],
+   "body": "The man who leaked Grand Theft Auto VI to the world four years ago has admitted it. Arion Kurtaj, now 21, pleaded guilty at Woolwich Crown Court on Monday, November 16, to crimes linked to the 2022 hack of Rockstar Games.\nKurtaj was a teenager when he got into Rockstar's internal Slack in September 2022 and posted about 90 clips from an early build of the game online. It was the public's first look at GTA VI, including its playable female lead, Lucia, more than a year before Rockstar's official reveal. He also threatened to release the game's source code.\n## A long case\nKurtaj was arrested in 2022. He was linked to the Lapsus$ hacking group, which also hit major tech companies that year. Earlier court proceedings found he wasn't fit to stand trial, and in 2023 he was ordered to stay in a secure hospital. Reports say he carried out part of the Rockstar attack while under police supervision in a hotel, using a hotel television and other borrowed equipment.\nRockstar has said the hack cost it $5 million to recover from, plus thousands of hours of staff time, according to the BBC.\nThe plea lands days before the game finally launches on November 19.",
+   "sources": [
+    {
+     "name": "Aftermath",
+     "url": "https://aftermath.site/gta-6-hacker-2022-pleads-guilty/"
+    },
+    {
+     "name": "Rockstar Intel",
+     "url": "https://rockstarintel.com/?p=44485"
+    },
+    {
+     "name": "ITPro (2023 background)",
+     "url": "https://itpro.com/security/the-infamous-gta-vi-hacker-has-been-convicted-and-the-story-is-simply-absurd"
+    }
+   ]
+  },
+  {
+   "slug": "god-of-war-sons-of-sparta-ps4-new-modes",
+   "section": "news",
+   "date": "2026-11-13",
+   "title": "God of War Sons of Sparta comes to PS4 with two free new modes",
+   "dek": "The 2D Kratos prequel is no longer PS5-only. A free update on both consoles adds a speedrun mode and a brutal one-hit mode.",
+   "facts": [
+    [
+     "PS4 release",
+     "November 16, 2026"
+    ],
+    [
+     "Update",
+     "Free, on PS4 and PS5"
+    ],
+    [
+     "New modes",
+     "Hermes Mode, Erebus Mode"
+    ],
+    [
+     "Developers",
+     "Mega Cat Studios, Santa Monica Studio"
+    ]
+   ],
+   "body": "God of War Sons of Sparta, the 2D pixel-art spin-off that Sony shadow-dropped on PS5 in February for the series' 20th anniversary, came to PlayStation 4 on Monday, November 16.\nThe game follows Kratos as a 13-year-old Spartan soldier, long before his war on the gods. It was developed by Mega Cat Studios with Santa Monica Studio. A PS4 version had been rumored after dataminers spotted a PS4 listing earlier in November, but the new content was a surprise.\n## Two new ways to play\nA free update for both PS4 and PS5 adds two modes. You choose one when you start a new game in a save slot, and you can't switch later.\n- Hermes Mode: a speedrun-focused mode that unlocks after you finish the game.\n- Erebus Mode: a punishing challenge where both you and your enemies die in a single hit.\n## What's next for Kratos\nThe main series is further off than planned. Santa Monica Studio recently delayed God of War Laufey from February to May 20, 2027.",
+   "sources": [
+    {
+     "name": "Game Informer",
+     "url": "https://gameinformer.com/2026/11/13/god-of-war-sons-of-sparta-gets-ps4-version-and-new-content-next-monday"
+    },
+    {
+     "name": "Final Weapon",
+     "url": "https://finalweapon.net/2026/11/13/god-of-war-sons-of-sparta-reveals-playstation-4-port-and-new-content-update/"
+    },
+    {
+     "name": "EGW News",
+     "url": "https://egw.news/gaming/news/38467/god-of-war-sons-of-sparta-comes-to-ps4-on-november-fGAxKV3T5"
+    }
+   ]
+  },
+  {
+   "slug": "xbox-25th-anniversary-announcements",
+   "section": "news",
+   "date": "2026-11-13",
+   "title": "Xbox turns 25: everything announced, from Wolfenstein 3 to original Xbox games on PC",
+   "dek": "Microsoft marked the anniversary with new games in production, more classic Xbox titles on PC, fresh Fable gameplay and the $900 Series X25.",
+   "facts": [
+    [
+     "Anniversary",
+     "November 15 (original Xbox, 2001)"
+    ],
+    [
+     "Classic games on PC",
+     "21 added, 25 in total"
+    ],
+    [
+     "Series X25",
+     "$899.99, out November 13"
+    ],
+    [
+     "New in production",
+     "Wolfenstein 3, a new id Software game"
+    ]
+   ],
+   "body": "The original Xbox launched in North America on November 15, 2001, and Microsoft spent the week around its 25th birthday rolling out news.\n## New games in the works\nXbox CEO Asha Sharma confirmed that Wolfenstein 3 is in production at MachineGames, and that id Software has started a new game directed by Hugo Martin. We have separate stories on both.\n## Original Xbox games on PC\nMicrosoft added 21 original Xbox games to PC through backward compatibility, including Armed and Dangerous, Crimson Skies: High Road to Revenge and Fuzion Frenzy. That brings the number of original Xbox games playable on PC to 25. Some classic titles also get achievements for the first time.\n## Fable\nA new four-minute gameplay video for the Fable reboot, due in 2027, was shown running on PC at its highest graphics settings.\n## The Series X25\nThe limited-edition Xbox Series X25, a translucent \"OG green\" console modeled on the 2001 machine, went on sale on November 13 for $899.99 in select markets. It comes with a matching controller and a copy of Halo: Campaign Evolved.\nNot everyone was impressed. Some fans felt the celebration was light on big console news, especially with so much of it aimed at PC.",
+   "sources": [
+    {
+     "name": "KeenGamer",
+     "url": "https://www.keengamer.com/articles/news/xbox-25th-anniversary-introduces-21-original-games-to-pc-and-fable-reboot-gameplay/"
+    },
+    {
+     "name": "NoobFeed",
+     "url": "https://www.noobfeed.com/news/xbox-25th-anniversary-highlights-console"
+    },
+    {
+     "name": "Digital Citizen",
+     "url": "https://www.digitalcitizen.life/xbox-series-x25-launches-november-13-for-899-99-with-special-edition-controller/"
+    }
+   ]
+  },
+  {
+   "slug": "id-software-new-game-hugo-martin",
+   "section": "news",
+   "date": "2026-11-12",
+   "title": "id Software starts its next game, with Doom's Hugo Martin directing",
+   "dek": "The Doom studio confirmed a new project across its Texas and Frankfurt teams. It hasn't said what the game is, but reports point to more Doom.",
+   "facts": [
+    [
+     "Studio",
+     "id Software (Xbox / Bethesda)"
+    ],
+    [
+     "Director",
+     "Hugo Martin"
+    ],
+    [
+     "Teams",
+     "Texas and Frankfurt"
+    ],
+    [
+     "Title / platforms",
+     "Not announced"
+    ]
+   ],
+   "body": "id Software is working on its next game. Xbox CEO Asha Sharma announced the project on November 12 as part of Xbox's 25th anniversary, and the studio confirmed it on X shortly afterwards.\nTeams at id's offices in Texas and Frankfurt are building it, and Hugo Martin returns as game director. Martin was creative director on Doom (2016) and Doom Eternal and directed last year's Doom: The Dark Ages. The studio said it will be a while before it's ready to show anything.\n## Doom again?\nid hasn't said whether it's Doom, Quake or something new. The Verge's Tom Warren reports that it's a Doom project, though that hasn't been confirmed.\nThe news follows a difficult stretch for the studio, which was hit by Xbox layoffs earlier this year. Martin has pushed back on reports that id was cut too deeply to make big games, saying the team is still roughly the size of the one that made Doom (2016).",
+   "sources": [
+    {
+     "name": "TweakTown",
+     "url": "https://www.tweaktown.com/news/114662/xbox-ceo-confirms-new-game-from-id-software-reports-say-its-the-next-doom/index.html"
+    },
+    {
+     "name": "Kotaku",
+     "url": "https://kotaku.com/id-software-says-its-working-on-its-next-game-directed-by-dooms-hugo-martin-2000756358"
+    },
+    {
+     "name": "Digital Citizen",
+     "url": "https://www.digitalcitizen.life/id-software-says-its-doom-team-and-id-tech-engine-remain-strong-after-xbox-layoffs/"
+    }
+   ]
+  },
+  {
+   "slug": "witcher-3-songs-of-the-past-ai-polish-geralt",
+   "section": "news",
+   "date": "2026-11-12",
+   "title": "Witcher 3's new expansion uses AI to keep Geralt's Polish voice consistent",
+   "dek": "Geralt's Polish actor Jacek Rozenek still records every line. AI adjusts them to match his voice from before a 2019 stroke, with his consent.",
+   "facts": [
+    [
+     "Expansion",
+     "The Witcher 3: Songs of the Past"
+    ],
+    [
+     "Actor",
+     "Jacek Rozenek (Polish Geralt since 2007)"
+    ],
+    [
+     "AI company",
+     "Respeecher"
+    ],
+    [
+     "CDPR's view",
+     "A \"special case\""
+    ]
+   ],
+   "body": "CD Projekt Red has confirmed that it is using AI on Geralt's Polish dialogue in Songs of the Past, the surprise new expansion for The Witcher 3, first reported by Game File.\nJacek Rozenek has voiced Geralt in Polish since the first Witcher game in 2007. In 2019 he had a stroke that left him unable to speak for months. He rebuilt his voice through intensive daily training and returned to acting, but it now sounds lower and rougher than it did in the 2015 game.\n## How it works\nRozenek still performs every new line himself. CD Projekt worked with Ukrainian company Respeecher, which built a model from his original recordings so the new lines sound like the Geralt Polish players heard in the base game. That lets them sit alongside thousands of older lines without a jarring change. Rozenek agreed to the process.\nCD Projekt calls it a special case and says its contracts require an actor's consent for any AI use.\n## Not the first time\nThe studio used Respeecher before, for Cyberpunk 2077: Phantom Liberty, where it recreated the Polish voice of Viktor Vektor with the family's consent after actor Miłogost Reczek died in 2021.",
+   "sources": [
+    {
+     "name": "Video Games Chronicle",
+     "url": "https://www.videogameschronicle.com/news/the-witcher-3-expansion-uses-ai-to-adjust-geralts-polish-voiceover-because-the-actor-suffered-a-stroke/"
+    },
+    {
+     "name": "Game Developer",
+     "url": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai"
+    },
+    {
+     "name": "eXputer",
+     "url": "https://exputer.com/?p=446012"
+    }
+   ]
+  },
+  {
+   "slug": "eu-digital-fairness-act-loot-boxes-minors",
+   "section": "industry",
+   "date": "2026-11-11",
+   "title": "EU proposes banning paid loot boxes and pay-to-win for minors",
+   "dek": "The Digital Fairness Act would also force games to show loot box odds and let every player switch paid loot boxes off. Industry groups are pushing back.",
+   "facts": [
+    [
+     "Proposal",
+     "Digital Fairness Act"
+    ],
+    [
+     "Published",
+     "November 11, 2026"
+    ],
+    [
+     "Minors",
+     "Paid loot boxes, pay-to-win and pay-to-progress banned"
+    ],
+    [
+     "Everyone",
+     "Odds shown, option to switch loot boxes off"
+    ],
+    [
+     "Status",
+     "Proposal, not yet law"
+    ]
+   ],
+   "body": "The European Commission has proposed the biggest shake-up of game monetization rules Europe has seen. Its Digital Fairness Act, published on November 11, would replace the EU's 2005 Unfair Commercial Practices Directive with a regulation that applies directly in every member state.\n## What it means for games\n- Paid loot boxes would be banned for minors outright.\n- Pay-to-win and pay-to-progress mechanics would be banned for minors too.\n- Every game selling loot boxes would have to list what's inside and the odds of getting each item.\n- All players, adults included, would get tools to turn paid loot boxes off.\n- Paid virtual currencies would be switched off by default for minors.\nThe proposal groups loot boxes, wheels of fortune and collectible card packs together, saying they share features with gambling. Consumer Commissioner Michael McGrath called it the most ambitious reform of EU consumer rules in a generation.\n## Industry reaction\nVideo Games Europe, whose members include Sony and Epic, and the European Games Developer Federation warned in a joint statement that the plan would seriously hurt the competitiveness of Europe's games industry. They also objected to treating games rated below PEGI 18 as products aimed at children.\n## What happens next\nThis is a proposal, not a law. The European Parliament and member states still have to agree on it, and the text could change along the way.",
+   "sources": [
+    {
+     "name": "Inven Global",
+     "url": "https://www.invenglobal.com/articles/28479/european-commission-proposes-ban-on-paid-loot-boxes-and-pay-to-win-for-minors"
+    },
+    {
+     "name": "God is a Geek",
+     "url": "https://godisageek.com/2026/11/eu-loot-box-pay-to-win-ban-minors/"
+    },
+    {
+     "name": "VGTimes",
+     "url": "https://vgtimes.com/articles/174761-digital-fairness-act-loot-boxes.html"
+    }
+   ]
+  },
+  {
+   "slug": "nintendo-earnings-switch-2-26-million",
+   "section": "industry",
+   "date": "2026-11-05",
+   "title": "Switch 2 reaches 26.35 million sold as Nintendo holds its 16.5 million forecast",
+   "dek": "Hardware sales are down from launch year, but software is up and Nintendo is sticking to its full-year target despite rising chip costs.",
+   "facts": [
+    [
+     "Switch 2 lifetime",
+     "26.35 million"
+    ],
+    [
+     "July–September",
+     "2.67 million"
+    ],
+    [
+     "First half",
+     "6.49 million (down 37.4%)"
+    ],
+    [
+     "Switch 2 software (half)",
+     "24.49 million (up 18.8%)"
+    ],
+    [
+     "Full-year target",
+     "16.5 million"
+    ]
+   ],
+   "body": "Nintendo's results for April to September show Switch 2 settling into its second year. The console sold 2.67 million units in the July–September quarter, bringing its lifetime total to 26.35 million.\nFirst-half hardware sales came to 6.49 million, down 37.4% from a year earlier. That comparison is against the console's launch period, when demand was at its peak. Software is moving the other way: Switch 2 games sold 24.49 million units in the half, up 18.8%.\n## Holding the line\nNintendo kept its full-year forecast of 16.5 million Switch 2 consoles for the year ending March 2027. That forecast already allows for around $633 million in extra costs from rising component prices, with memory chips the main pressure.\nThe original Switch is still selling too. It added 1.27 million units in the half, for a lifetime total of 157.20 million.\nThe quarter ended before the November 5 launch of The Legend of Zelda: Ocarina of Time, which has since become the fastest-selling Switch 2 game. Its effect will show up in next quarter's numbers.",
+   "sources": [
+    {
+     "name": "Anadolu Agency",
+     "url": "https://aa.com.tr/en/asia-pacific/nintendo-switch-2-quarterly-sales-fall-41-as-component-costs-weigh/4112282"
+    },
+    {
+     "name": "Nintendo Everything",
+     "url": "https://nintendoeverything.com/?p=928544"
+    },
+    {
+     "name": "Shacknews",
+     "url": "https://shacknews.com/article/151284/nintendo-switch-2-sells-2-67-million-units-q2-fy27"
+    }
+   ]
+  },
+  {
+   "slug": "world-of-warcraft-forever-launch",
+   "section": "news",
+   "date": "2026-11-04",
+   "title": "World of Warcraft: Forever launches, Blizzard's long-awaited Classic Plus",
+   "dek": "A third permanent version of WoW expands vanilla Azeroth with new zones, dungeons and over 1,000 quests. Raids open December 9.",
+   "facts": [
+    [
+     "Launched",
+     "November 4, 2026"
+    ],
+    [
+     "Cost",
+     "Included with a WoW subscription"
+    ],
+    [
+     "Level cap",
+     "60"
+    ],
+    [
+     "New content",
+     "3 zones, 9 dungeons, 1,000+ quests"
+    ],
+    [
+     "First raids",
+     "December 9"
+    ]
+   ],
+   "body": "World of Warcraft: Forever, the \"Classic Plus\" fans have asked for for years, launched worldwide on November 4. It sits alongside modern WoW and WoW Classic as a third permanent version of the game, and it's included with a World of Warcraft subscription, so there's nothing extra to buy.\nForever keeps the look and core rules of the original 2004 game but adds to it: updated visuals and lighting, three new zones, nine new dungeons, more than 1,000 new quests and new race and class combinations such as Gnome Priests, Dwarf Shamans and Undead Paladins. The level cap stays at 60. Blizzard has said Forever is a separate continuity from modern WoW.\n## What's coming\n- December 9: raids unlock, with Barrow Deeps (10 players), Hyjal Summit (20) and Onyxia's Lair (40).\n- A Hardcore version later.\n- Spring 2027: two more raids, two dungeons, new quests and areas, a legendary questline and a PvP season refresh.",
+   "sources": [
+    {
+     "name": "Blizzard",
+     "url": "https://news.blizzard.com/en-us/article/24302093/carve-a-new-path-with-world-of-warcraft-forever"
+    },
+    {
+     "name": "Icy Veins",
+     "url": "https://www.icy-veins.com/wow-classic/news/warcraft-forever-releases-november-4-beta-starts-september-17/"
+    },
+    {
+     "name": "Digital Citizen",
+     "url": "https://www.digitalcitizen.life/world-of-warcraft-forever-brings-classic-plus-to-azeroth-on-november-4/"
+    }
+   ]
+  },
+  {
+   "slug": "god-of-war-laufey-delayed-may-2027",
+   "section": "news",
+   "date": "2026-11-04",
+   "title": "God of War Laufey is delayed three months to May 20, 2027",
+   "dek": "Santa Monica Studio is pushing Faye's PS5 adventure back from February to give the game more polish.",
+   "facts": [
+    [
+     "Old date",
+     "February 16, 2027"
+    ],
+    [
+     "New date",
+     "May 20, 2027"
+    ],
+    [
+     "Platform",
+     "PS5"
+    ],
+    [
+     "Developer",
+     "Santa Monica Studio"
+    ]
+   ],
+   "body": "God of War Laufey won't make its February launch. Santa Monica Studio announced on November 4 that the game is moving from February 16, 2027 to May 20, 2027, a delay of about three months.\nIn a message posted online, the studio said it wants the extra time for finishing touches and to push the game to its full potential. It promised more updates before the new date.\n## About the game\nLaufey stars Faye, Kratos's late wife and Atreus's mother, and takes its name from the title she earns, Laufey the Just. It's set in the \"Everywhen,\" an afterlife where gods go after death, and runs alongside the events of God of War (2018) and Ragnarök. It's a PS5 exclusive.\nThe move also takes the game out of a crowded early-2027 release window. In the meantime, PlayStation fans have the 2D spin-off God of War Sons of Sparta, which just came to PS4 with new modes.",
+   "sources": [
+    {
+     "name": "Game Informer",
+     "url": "https://gameinformer.com/2026/11/04/god-of-war-laufey-delayed-to-may"
+    },
+    {
+     "name": "Gematsu",
+     "url": "https://www.gematsu.com/2026/11/god-of-war-laufey-delayed-to-may-20-2027"
+    },
+    {
+     "name": "Gfinity",
+     "url": "https://www.gfinityesports.com/article/god-of-war-laufey-has-been-delayed-three-months"
+    }
    ]
   }
  ],
  "releases": [
-  {"date": "2026-11-18", "title": "Disney Dreamlight Valley: The Keepsake Sea", "platforms": "Switch 2, Switch and more", "note": "Underwater expansion"},
-  {"date": "2026-11-19", "title": "Grand Theft Auto VI", "platforms": "PS5, Xbox Series X|S", "note": "Standard Edition $80", "link": "gta-vi-reviews-metacritic-99"},
-  {"date": "2026-11-19", "title": "The Binding of Isaac: Repentance+", "platforms": "Switch 2", "note": ""},
-  {"date": "2026-11-24", "title": "Phasmophobia: Resonance update", "platforms": "PC, consoles", "note": "Free update"},
-  {"date": "2026-11-24", "title": "Gothic 3 Classic", "platforms": "Switch 2", "note": ""},
-  {"date": "2026-12-03", "title": "Xenoblade Chronicles 3 – Nintendo Switch 2 Edition", "platforms": "Switch 2", "note": ""},
-  {"date": "2026-12-09", "title": "Pokémon Pokopia: Dazzling Decorations", "platforms": "Switch 2", "note": "Paid DLC, part 2"},
-  {"date": "2026-12-10", "title": "The Game Awards 2026", "platforms": "Livestream", "note": "Event", "link": "game-awards-2026-nominees"}
+  {
+   "date": "2026-11-18",
+   "title": "Disney Dreamlight Valley: The Keepsake Sea",
+   "platforms": "Switch 2, Switch and more",
+   "note": "Underwater expansion"
+  },
+  {
+   "date": "2026-11-19",
+   "title": "Grand Theft Auto VI",
+   "platforms": "PS5, Xbox Series X|S",
+   "note": "Standard Edition $80",
+   "link": "gta-vi-reviews-metacritic-99"
+  },
+  {
+   "date": "2026-11-19",
+   "title": "The Binding of Isaac: Repentance+",
+   "platforms": "Switch 2",
+   "note": ""
+  },
+  {
+   "date": "2026-11-24",
+   "title": "Phasmophobia: Resonance update",
+   "platforms": "PC, consoles",
+   "note": "Free update"
+  },
+  {
+   "date": "2026-11-24",
+   "title": "Gothic 3 Classic",
+   "platforms": "Switch 2",
+   "note": ""
+  },
+  {
+   "date": "2026-12-03",
+   "title": "Xenoblade Chronicles 3 – Nintendo Switch 2 Edition",
+   "platforms": "Switch 2",
+   "note": ""
+  },
+  {
+   "date": "2026-12-09",
+   "title": "Pokémon Pokopia: Dazzling Decorations",
+   "platforms": "Switch 2",
+   "note": "Paid DLC, part 2"
+  },
+  {
+   "date": "2026-12-09",
+   "title": "World of Warcraft: Forever raids unlock",
+   "platforms": "PC, Mac",
+   "note": "Barrow Deeps, Hyjal Summit, Onyxia's Lair",
+   "link": "world-of-warcraft-forever-launch"
+  },
+  {
+   "date": "2026-12-10",
+   "title": "The Game Awards 2026",
+   "platforms": "Livestream",
+   "note": "Event",
+   "link": "game-awards-2026-nominees"
+  }
  ],
  "releaseSources": [
-  {"name": "Nintendo Everything", "url": "https://nintendoeverything.com/?p=928641"},
-  {"name": "Tech Insider", "url": "https://tech-insider.org/upcoming-games-november-2026-nintendo-nine-releases-switch-2/"},
-  {"name": "Instant Gaming News", "url": "https://news.instant-gaming.com/en"}
+  {
+   "name": "Nintendo Everything",
+   "url": "https://nintendoeverything.com/?p=928641"
+  },
+  {
+   "name": "Tech Insider",
+   "url": "https://tech-insider.org/upcoming-games-november-2026-nintendo-nine-releases-switch-2/"
+  },
+  {
+   "name": "Instant Gaming News",
+   "url": "https://news.instant-gaming.com/en"
+  },
+  {
+   "name": "Icy Veins",
+   "url": "https://www.icy-veins.com/wow-classic/news/warcraft-forever-releases-november-4-beta-starts-september-17/"
+  }
  ]
 }
