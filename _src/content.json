@@ -1,11 +1,203 @@
 {
- "edition": "2026-11-19",
- "lead": "gta-vi-launches-preorders-1-65-billion-sensor-tower",
+ "edition": "2026-11-20",
+ "lead": "gta-vi-first-day-sales-24-million-2-36-billion-sensor-tower",
  "leadCallout": {
-  "big": "$1.65B",
-  "small": "Estimated GTA VI preorder sales before launch, according to Sensor Tower"
+  "big": "$2.36B",
+  "small": "Estimated GTA VI sales by the end of launch day, including preorders, according to Sensor Tower"
  },
  "articles": [
+  {
+   "slug": "gta-vi-first-day-sales-24-million-2-36-billion-sensor-tower",
+   "section": "industry",
+   "date": "2026-11-20",
+   "title": "GTA VI sold an estimated 24.6 million copies by the end of launch day, Sensor Tower says",
+   "dek": "The analytics firm puts Rockstar's first-day haul at roughly $2.36 billion including preorders, about three times GTA V's 2013 opening. Take-Two hasn't confirmed any numbers yet.",
+   "facts": [
+    [
+     "Estimated units",
+     "About 24.6 million (incl. preorders)"
+    ],
+    [
+     "Estimated revenue",
+     "About $2.36 billion"
+    ],
+    [
+     "Platform split",
+     "Roughly 75% PS5, 25% Xbox"
+    ],
+    [
+     "GTA V day one (2013)",
+     "About $800 million"
+    ],
+    [
+     "Official figures",
+     "Not yet released by Take-Two"
+    ]
+   ],
+   "body": "Grand Theft Auto VI ended its first day on sale with an estimated 24.6 million copies sold, worth around $2.36 billion, according to new figures from analytics firm Sensor Tower. The totals are cumulative and include preorders, and they cover digital sales on PlayStation 5 and Xbox Series X|S.\nThe number moved quickly through launch day. On Wednesday, before the game unlocked, Sensor Tower's presale estimate stood at about $1.65 billion. A Thursday morning reading reported by USA Today put it at roughly 19.1 million units and $1.84 billion, and by Thursday evening the estimate had climbed past $2.3 billion.\n## PlayStation dominates\nAccording to the breakdown reported by GameSpot, PS5 accounts for about 18.4 million copies and $1.77 billion, while Xbox Series X|S accounts for about 6.2 million copies and $588 million. That is close to a three-to-one split in Sony's favor, in line with the preorder pattern Sensor Tower tracked over the summer.\n## How it compares\nGTA V took about $800 million on its first day in September 2013, so GTA VI's estimated opening is nearly three times larger.\n## The caveats\nThese are third-party estimates, not official sales. Take-Two Interactive and Rockstar have not released a unit or revenue figure, though Take-Two CEO Strauss Zelnick has said official data will be shared soon. The estimates also cover digital console sales, so they aren't a complete count. Earlier this month Zelnick told investors the company wasn't ready to declare victory. The next official word will likely come in a Take-Two announcement or its next earnings report.",
+   "sources": [
+    {
+     "name": "Make Tech Easier",
+     "url": "https://maketecheasier.com/gta-6-first-day-sales-estimate/"
+    },
+    {
+     "name": "Shattered",
+     "url": "https://shattered.io/gta-vi-first-day-sales-2-36-billion-sensor-tower-estimate-take-two/"
+    },
+    {
+     "name": "Techtroduce",
+     "url": "https://www.techtroduce.com/gta-6-first-day-sales-24-million-2-billion"
+    }
+   ]
+  },
+  {
+   "slug": "gta-vi-streaming-record-7-million-viewers-twitch-youtube-kick",
+   "section": "news",
+   "date": "2026-11-20",
+   "title": "GTA VI breaks the all-time streaming record for a game launch",
+   "dek": "Streams Charts tracked a combined peak of more than 6 million concurrent viewers across YouTube, Twitch and Kick, smashing Valorant's 2020 beta record several times over.",
+   "facts": [
+    [
+     "Combined peak",
+     "6.38M+ (preliminary); later reports cite 7.6M"
+    ],
+    [
+     "Twitch peak",
+     "Up to 3.29 million, per Insider Gaming"
+    ],
+    [
+     "Previous launch record",
+     "Valorant closed beta, about 1.74M (2020)"
+    ],
+    [
+     "Tracked by",
+     "Streams Charts"
+    ],
+    [
+     "Platforms",
+     "YouTube, Twitch, Kick"
+    ]
+   ],
+   "body": "Grand Theft Auto VI's launch wasn't just a sales event. It was the most-watched game launch in streaming history, according to data from analytics firm Streams Charts.\nAs the game unlocked around the world, starting in New Zealand on November 18, viewers flooded into YouTube, Twitch and Kick. A preliminary Streams Charts snapshot reported by esports.gg showed a combined peak of more than 6.38 million concurrent viewers: about 2.66 million on YouTube, 2.5 million on Twitch and 1.31 million on Kick. Insider Gaming later reported a higher all-time peak of about 7.6 million across the three platforms, with Twitch alone reaching about 3.29 million.\n## Records that fell\n- The previous game-launch record belonged to Valorant's closed beta in 2020, which peaked at roughly 1.74 million viewers.\n- According to Insider Gaming, GTA VI also became the biggest single category in Twitch history, passing League of Legends' 3.11 million peak.\n- On Kick, it came in second only to Minecraft.\n## Who was watching\nMuch of the audience came through big creators in Indonesia and Brazil. Windah Basudara drew about 267,000 concurrent viewers on YouTube and alanzoka reached about 245,000 on Twitch, according to esports.gg.\nThe exact figures differ between snapshots, and Streams Charts calls its early numbers preliminary, so the final peak may move again. Either way, the gap to every previous launch is enormous.",
+   "sources": [
+    {
+     "name": "esports.gg",
+     "url": "https://esports.gg/news/grand-theft-auto-6/gta-6-breaks-streaming-record-with-6-38-million-viewers/"
+    },
+    {
+     "name": "Insider Gaming",
+     "url": "https://insider-gaming.com/gta-6-streaming-launch-record/"
+    }
+   ]
+  },
+  {
+   "slug": "ubisoft-lays-off-166-montreal-quebec-city",
+   "section": "industry",
+   "date": "2026-11-20",
+   "title": "Ubisoft cuts 166 jobs at its Montreal and Quebec City studios",
+   "dek": "The layoffs mainly hit production and support roles tied to cancelled or reworked projects, extending a year of closures and cuts at the Assassin's Creed publisher.",
+   "facts": [
+    [
+     "Jobs cut",
+     "166"
+    ],
+    [
+     "Studios",
+     "Montreal and Quebec City"
+    ],
+    [
+     "Share of staff",
+     "Under 4% at those studios"
+    ],
+    [
+     "Roles",
+     "Mostly production and support"
+    ],
+    [
+     "2026 headcount drop",
+     "About 1,100 between April and September"
+    ]
+   ],
+   "body": "Ubisoft is laying off 166 people across its Montreal and Quebec City operations, two of its largest studios and the main homes of Assassin's Creed. The company confirmed the cuts on November 20.\nA Ubisoft spokesperson said the company's production needs are changing and that it is adjusting team sizes to match current production priorities and business needs. According to GamesIndustry.biz, the affected staff are mainly in production and support roles connected to projects that were recently cancelled or significantly changed. PocketGamer.biz says the cuts amount to less than 4% of headcount at the two studios, and reportedly include staff at Vantage Studios, the Tencent-backed subsidiary that runs Assassin's Creed, Far Cry and Rainbow Six.\n## A long year of cuts\nThis is far from the first round in 2026:\n- Early in the year Ubisoft made what it described as a final round of cuts aimed at about 200 million euros in savings.\n- It has since closed Ubisoft Winnipeg, Ubisoft Belgrade and Ubisoft Halifax.\n- Its headcount fell by roughly 1,100 between April and September.\n- In October it announced plans to close Finnish studio RedLynx and cut 70 jobs at Ubisoft Singapore, and said Rainbow Six Mobile will shut down in January 2027.\nThe timing is notable. The cuts land a day after the biggest game launch in history, a reminder that blockbuster sales elsewhere haven't stopped the industry's wave of layoffs.",
+   "sources": [
+    {
+     "name": "PocketGamer.biz",
+     "url": "https://www.pocketgamer.biz/ubisoft-lays-off-166-staff-across-montreal-and-quebec-city-studios/"
+    }
+   ]
+  },
+  {
+   "slug": "steam-machine-512gb-in-stock-valve-warns-price-increase",
+   "section": "news",
+   "date": "2026-11-20",
+   "title": "Steam Machine 512GB is now in stock, but Valve warns prices may rise",
+   "dek": "Valve has cleared its reservation queue for the base model and closed the 2TB waitlist, while warning that soaring memory and storage costs could push prices up again.",
+   "facts": [
+    [
+     "512GB model",
+     "Reservations fulfilled; now buy-and-ship"
+    ],
+    [
+     "2TB model",
+     "Waitlist closed to new signups"
+    ],
+    [
+     "Possible change",
+     "Price increase"
+    ],
+    [
+     "Reason",
+     "Rising memory and storage costs"
+    ],
+    [
+     "Outlook",
+     "Expected to last at least a few months"
+    ]
+   ],
+   "body": "Getting hold of a Steam Machine just got easier, at least for the base model. In an update posted to its Steam hardware community group on November 19, Valve said it has fulfilled every reservation for the 512GB Steam Machine and still has stock left. The 512GB model is now simply available to buy on its Steam store page while supplies last, and it ships right away.\nValve had said in July that it expected to catch up on the reservation queue by the end of 2026. That has now happened for the 512GB version.\n## 2TB waitlist closed\nThe 2TB model is a different story. Valve says it has sent purchase invitations to everyone holding a 2TB reservation, and people already on the waitlist keep their place. But it is no longer taking new signups.\n## Prices could climb\nThe bigger news for anyone still waiting is a warning about cost. Valve says it won't be able to build Steam Machines in the numbers it had planned, citing memory and storage costs that continue to increase at unprecedented levels. The company says it is still producing more units but doesn't yet know how many it can make or at what price, and it expects the situation to continue for at least a few months.\nIn practice, that means today's price may not last. If you were planning to buy a 512GB Steam Machine, the current stock is the safest bet.",
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "url": "https://www.pcgamer.com/hardware/steam-machines/valve-may-raise-steam-machine-prices-yet-again-memory-and-storage-costs-continue-to-increase-at-unprecedented-levels/"
+    }
+   ]
+  },
+  {
+   "slug": "rockstar-developers-layoff-fears-union-vote-gta-vi",
+   "section": "industry",
+   "date": "2026-11-20",
+   "title": "Rockstar developers say layoff fears linger even after GTA VI's record launch",
+   "dek": "A Rockstar animation programmer argues union recognition would give staff a voice as the industry braces for post-launch cuts and AI. The vote runs until November 26.",
+   "facts": [
+    [
+     "Who spoke out",
+     "Rockstar animation programmer Nestor Uriarte"
+    ],
+    [
+     "Where",
+     "Opinion piece in The Guardian"
+    ],
+    [
+     "Union vote ends",
+     "November 26"
+    ],
+    [
+     "At stake",
+     "Largest recognized union in UK games history, if it passes"
+    ],
+    [
+     "Rockstar layoffs announced",
+     "None"
+    ]
+   ],
+   "body": "Grand Theft Auto VI may be the most successful launch the industry has ever seen, but some of the people who made it are still worried about what comes next, according to IGN.\nRockstar animation programmer Nestor Uriarte wrote an opinion piece for The Guardian ahead of the studio's union recognition vote. He acknowledges there is no sign that layoffs are actually coming, but argues it's easy to see why developers are nervous. In his telling, game workers have learned to expect heavy overtime before a release and mass redundancies afterward.\n## AI and a seat at the table\nUriarte also says Rockstar staff are concerned that AI could devalue their work. Union recognition, he argues, would give employees a formal role in managing those changes alongside the company.\n## The vote\nThe recognition ballot is underway and runs until November 26, according to IGN. If it succeeds, it would create the largest recognized union in UK games history. The vote follows Rockstar's dismissal of dozens of staff earlier, which led to accusations of union busting.\nThe concerns aren't abstract. On the same day IGN's report ran, Ubisoft announced 166 layoffs at its Canadian studios, part of a year of cuts across the industry. Rockstar itself has not announced any job cuts. We'll report the result of the vote when it's announced.",
+   "sources": [
+    {
+     "name": "IGN (via Yahoo)",
+     "url": "https://www.yahoo.com/news/politics/articles/gta-6-devs-still-worried-193802732.html"
+    }
+   ]
+  },
   {
    "slug": "gta-vi-reviews-metacritic-99",
    "section": "reviews",
@@ -1021,26 +1213,6 @@
  ],
  "releases": [
   {
-   "date": "2026-11-19",
-   "title": "Grand Theft Auto VI",
-   "platforms": "PS5, Xbox Series X|S",
-   "note": "Standard Edition $80",
-   "link": "gta-vi-reviews-metacritic-99"
-  },
-  {
-   "date": "2026-11-19",
-   "title": "The Binding of Isaac: Repentance+",
-   "platforms": "Switch 2",
-   "note": ""
-  },
-  {
-   "date": "2026-11-19",
-   "title": "Xbox Black Friday Sale",
-   "platforms": "Xbox, PC",
-   "note": "Up to 80% off, starts 9 PM PT",
-   "link": "black-friday-2026-nintendo-xbox-sales-start"
-  },
-  {
    "date": "2026-11-22",
    "title": "Switch 2 + Mario Kart World Black Friday bundle",
    "platforms": "Switch 2",
@@ -1058,6 +1230,13 @@
    "title": "Gothic 3 Classic",
    "platforms": "Switch 2",
    "note": ""
+  },
+  {
+   "date": "2026-11-26",
+   "title": "Rockstar union recognition vote closes",
+   "platforms": "Industry",
+   "note": "Event",
+   "link": "rockstar-developers-layoff-fears-union-vote-gta-vi"
   },
   {
    "date": "2026-11-27",
@@ -1080,6 +1259,12 @@
    "note": ""
   },
   {
+   "date": "2026-12-03",
+   "title": "Warhammer 40,000: Dawn of War IV",
+   "platforms": "PC",
+   "note": ""
+  },
+  {
    "date": "2026-12-09",
    "title": "Pokémon Pokopia: Dazzling Decorations",
    "platforms": "Switch 2",
@@ -1098,6 +1283,12 @@
    "platforms": "Livestream",
    "note": "Event",
    "link": "game-awards-2026-nominees"
+  },
+  {
+   "date": "2026-12-10",
+   "title": "Professor Layton and the New World of Steam",
+   "platforms": "PS5, Switch, Switch 2, PC",
+   "note": ""
   }
  ],
  "releaseSources": [
@@ -1122,8 +1313,12 @@
    "url": "https://www.gematsu.com/2026/11/nintendo-announces-black-friday-2026-deals"
   },
   {
-   "name": "Gaming Route",
-   "url": "https://gamingroute.com/xbox-black-friday-2026/"
+   "name": "VGC",
+   "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/"
+  },
+  {
+   "name": "IGN (via Yahoo)",
+   "url": "https://www.yahoo.com/news/politics/articles/gta-6-devs-still-worried-193802732.html"
   }
  ]
 }
