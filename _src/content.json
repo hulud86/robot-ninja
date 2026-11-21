@@ -1,9 +1,9 @@
 {
- "edition": "2026-11-20",
- "lead": "gta-vi-first-day-sales-24-million-2-36-billion-sensor-tower",
+ "edition": "2026-11-21",
+ "lead": "ubisoft-h1-2026-27-results-254-million-loss-motherbrain-ai-studio",
  "leadCallout": {
-  "big": "$2.36B",
-  "small": "Estimated GTA VI sales by the end of launch day, including preorders, according to Sensor Tower"
+  "big": "€254.5M",
+  "small": "Ubisoft's IFRS net loss for the six months to September 2026, up from €161.3 million a year earlier"
  },
  "articles": [
   {
@@ -1209,6 +1209,202 @@
      "url": "https://news.xbox.com/en-us/2026/11/17/xbox-game-pass-november-2026-wave-2/"
     }
    ]
+  },
+  {
+   "slug": "ubisoft-h1-2026-27-results-254-million-loss-motherbrain-ai-studio",
+   "section": "industry",
+   "date": "2026-11-21",
+   "title": "Ubisoft posts a €254.5 million half-year loss and spins out a generative AI studio",
+   "dek": "Net bookings fell 16.5% in the six months to September, headcount dropped by about 1,100, and Ubisoft confirmed Motherbrain as a dedicated subsidiary for AI in gameplay.",
+   "facts": [
+    [
+     "H1 net bookings",
+     "€644.7m, down 16.5%"
+    ],
+    [
+     "Net loss (IFRS)",
+     "€254.5m, vs €161.3m a year earlier"
+    ],
+    [
+     "Headcount",
+     "Down close to 1,100 in six months"
+    ],
+    [
+     "Full-year outlook",
+     "Net bookings down high single digits"
+    ],
+    [
+     "New subsidiary",
+     "Motherbrain, AI for gameplay"
+    ],
+    [
+     "Reported",
+     "November 19, 2026"
+    ]
+   ],
+   "body": "Ubisoft's first-half results show a publisher still shrinking while it reorganizes. In the six months to September 30, net bookings came to €644.7 million, down 16.5% from €772.4 million a year earlier. The second quarter alone brought in €388.9 million, a 20.8% drop, though Ubisoft noted that was ahead of its own guidance of around €370 million.\nThe bottom line got worse. The IFRS net loss attributable to shareholders widened to €254.5 million from €161.3 million, and the IFRS operating loss grew to €189.2 million.\n## Fewer people, smaller costs\nUbisoft says its headcount fell by close to 1,100 over the half and its fixed cost base dropped 6% to €660 million. The results arrived the same week Ubisoft announced 166 more layoffs in Montreal and Quebec City. It ended September with about €1.03 billion in cash, and says it used cash in mid-November to settle a €453 million convertible bond that holders chose to redeem early. A two-part refinancing plan is underway.\n## Motherbrain becomes its own company\nThe report also confirms Motherbrain as a dedicated subsidiary focused on AI for gameplay. CEO Yves Guillemot described it as the team behind Teammates, the experimental generative AI project Ubisoft showed in late 2025, which uses AI-driven characters that respond to players. According to VGC, it is not yet clear whether Motherbrain's work will ship as standalone products or be built into other Ubisoft games. Ubisoft says its new operating model, which began rolling out in January alongside six game cancellations, is now fully in place.\n## What's next\nUbisoft kept its full-year targets: net bookings down by a high single-digit percentage, a negative non-IFRS operating margin, and free cash outflow of no more than €500 million. It expects around €250 million in third-quarter net bookings, with Rayman Legends Retold and Just Dance: Decades of Hits among this quarter's releases. Rainbow Six Tactics and the Heroes of Might and Magic III remake are slated for 2027.",
+   "sources": [
+    {
+     "name": "Ubisoft (press release)",
+     "url": "https://www.webdisclosure.com/press-release/ubisoft-reports-first-half-2026-27-earnings-figures-QNvJATfG3DR"
+    },
+    {
+     "name": "VGC",
+     "url": "https://www.videogameschronicle.com/news/ubisoft-has-founded-a-studio-dedicated-to-generative-ai-in-games/"
+    },
+    {
+     "name": "Insider Gaming",
+     "url": "https://insider-gaming.com/ubisoft-reports-254-million-loss-net-bookings-fall/"
+    }
+   ]
+  },
+  {
+   "slug": "gta-vi-japan-version-censored-nudity-blood",
+   "section": "news",
+   "date": "2026-11-21",
+   "title": "GTA VI's Japanese version tones down nudity and blood",
+   "dek": "Players in Japan found swimsuits in the shower, less gore and no way to turn it back up. Rockstar did not announce the changes ahead of launch.",
+   "facts": [
+    [
+     "Region",
+     "Japan"
+    ],
+    [
+     "Changes",
+     "Nudity covered or cut, blood and gore reduced"
+    ],
+    [
+     "Gameplay",
+     "Reportedly unchanged"
+    ],
+    [
+     "Download",
+     "Over 1GB smaller, per Kotaku"
+    ],
+    [
+     "Rockstar statement",
+     "None before release"
+    ]
+   ],
+   "body": "Grand Theft Auto VI players in Japan are getting a noticeably tamer game than the rest of the world, and many only found out once they started playing.\n## What's different\nAccording to Kotaku and VGC, which both cite footage and screenshots shared by Japanese players, nudity has been removed or covered throughout. Jason and Lucia wear swimwear in shower scenes, sex scenes and beach areas have been changed, and some scenes are reportedly cut altogether.\nViolence is also dialed back. Japanese outlet GameSpark reports that blood from injured and dead characters is reduced, disappears faster, and that decapitations have been removed. Elsewhere, players can lower gore and switch off dismemberment in the settings, but the Japanese version offers no option to raise it. VGC says the changes appear to be cosmetic, and the missions themselves play out the same way.\n## Warning signs before launch\nFans had suspected regional changes for weeks. Kotaku says the Japanese download was more than 1GB smaller than other regions, and the game's CERO rating in Japan left out the sexual content descriptors listed by rating boards elsewhere. Rockstar did not confirm any changes before release. Australian and New Zealand downloads are also slightly smaller, VGC notes, but there is no evidence yet that those versions are edited.\nKotaku also reports that the Japanese release carries only English voice acting with English and Japanese subtitles, while other regions offer more than a dozen languages but no Japanese text. Censoring Japanese releases is not new for the series, which has made similar edits in past entries.",
+   "sources": [
+    {
+     "name": "Kotaku",
+     "url": "https://kotaku.com/gta-6-japan-censored-showers-nudity-blood-violence-rockstar-2000758211"
+    },
+    {
+     "name": "VGC",
+     "url": "https://www.videogameschronicle.com/news/japan-censors-gta-6s-violence-and-nudity-including-jason-in-the-shower/"
+    }
+   ]
+  },
+  {
+   "slug": "digital-foundry-gta-vi-switch-2-port-unlikely",
+   "section": "news",
+   "date": "2026-11-21",
+   "title": "Digital Foundry doubts GTA VI could run on Switch 2",
+   "dek": "After testing the launch versions, Digital Foundry says a Switch 2 port looks extremely unlikely, with the game's CPU demands already pinning PS5 Pro to 30fps.",
+   "facts": [
+    [
+     "Platforms today",
+     "PS5, PS5 Pro, Xbox Series X|S"
+    ],
+    [
+     "Main obstacle",
+     "CPU load"
+    ],
+    [
+     "Series S",
+     "Often mid-to-high 20s fps, per DF"
+    ],
+    [
+     "Verdict",
+     "Switch 2 port extremely unlikely"
+    ]
+   ],
+   "body": "Now that Grand Theft Auto VI is out, Digital Foundry has weighed in on one of the most persistent fan questions: could it ever come to Nintendo Switch 2? Its answer is a firm probably not.\n## The CPU problem\nIn a video discussed by Nintendo Life, Digital Foundry says a Switch 2 version feels extremely unlikely at this stage. The core issue is the game's heavy CPU load. That bottleneck is why GTA VI runs at 30 frames per second even on PS5 Pro, a machine with far more processing power than Nintendo's hybrid.\nDigital Foundry's John Linneman said that without major changes he could not see how the game would work on Switch 2.\n## Series S already struggles\nThe weakest current version offers a hint of the challenge. Digital Foundry describes Xbox Series S performance as compromised, with frame rates often sitting in the mid to high 20s during normal play. The Series S is generally considered more capable than Switch 2 in raw CPU terms, so a Nintendo port would need deeper cuts than resolution alone.\n## No plans announced\nRockstar has not announced any version beyond PS5 and Xbox Series X|S, and has not dated a PC release. Earlier Rockstar games did eventually reach Nintendo hardware, but those ports arrived years after launch and on games that were far less demanding. For now, Switch 2 owners should not expect a trip to Leonida.",
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "url": "https://www.nintendolife.com/news/2026/11/gta-6-on-switch-2-digital-foundry-weighs-in-on-the-possibility"
+    }
+   ]
+  },
+  {
+   "slug": "deltarune-chapter-6-structurally-complete-chapter-7-begins",
+   "section": "news",
+   "date": "2026-11-21",
+   "title": "Deltarune Chapter 6 is playable start to finish, and Chapter 7 work has begun",
+   "dek": "Toby Fox's fall newsletter says Chapter 6 is a structurally complete draft heading into localization, though some scenes still need work before full testing.",
+   "facts": [
+    [
+     "Chapter 6 status",
+     "Structurally complete draft"
+    ],
+    [
+     "Next steps",
+     "Localization and early testing"
+    ],
+    [
+     "Chapter 7",
+     "Development just started"
+    ],
+    [
+     "Previous release",
+     "Chapter 5, June 2026"
+    ],
+    [
+     "Source",
+     "Toby Fox's Fall 2026 newsletter"
+    ]
+   ],
+   "body": "Deltarune creator Toby Fox has shared a fresh development update, and Chapter 6 has reached a big milestone.\n## Chapter 6\nIn his Fall 2026 newsletter, as reported by PC Gamer and Nintendo Life, Fox says Chapter 6 now exists as a structurally complete draft that can be played from beginning to end. All of its maps, events and battles are in place, with the exception of one optional event that is still in progress.\nThat means the team can begin localization and some preliminary testing. Full testing has to wait, though, because Fox says several important scenes and details still need more work. He also made clear he does not intend to hurry the remaining polish.\nFox has previously said Chapter 6 is aimed at 2027, and that it will be shorter and more focused on the story's central mysteries than earlier chapters.\n## Chapter 7\nDevelopment on Chapter 7, the planned final chapter, has only just started, with designers who finished their Chapter 6 work moving onto it. Fox says he read some of its events and dialogue to the team but stopped at a key moment, telling them they will need to finish more of the game before they find out what happens.\n## Fan vote\nThe newsletter also settled a community vote: Queen won with 65% of the vote, and the prize is a silly bonus scene in Chapter 6. Fox says the next update should arrive once Chapter 6's localization is done.",
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "url": "https://www.pcgamer.com/games/rpg/deltarune-chapter-6-is-structurally-complete-while-development-has-begun-on-chapter-7-according-to-toby-fox/"
+    },
+    {
+     "name": "Nintendo Life",
+     "url": "https://www.nintendolife.com/news/2026/11/toby-fox-shares-deltarune-chapter-6-and-7-development-update"
+    }
+   ]
+  },
+  {
+   "slug": "famitsu-japan-sales-ocarina-of-time-metaphor-refantazio-switch-2",
+   "section": "industry",
+   "date": "2026-11-21",
+   "title": "Ocarina of Time stays No. 1 in Japan as Metaphor: ReFantazio debuts on Switch 2",
+   "dek": "The Switch 2 Zelda remake sold another 86,097 boxed copies in Japan in its second full week, while Switch 2 outsold every other console combined.",
+   "facts": [
+    [
+     "No. 1",
+     "Zelda: Ocarina of Time, 86,097 (623,138 total)"
+    ],
+    [
+     "Top debut",
+     "Metaphor: ReFantazio, 11,167"
+    ],
+    [
+     "Switch 2 hardware",
+     "42,402 for the week"
+    ],
+    [
+     "PS5 family",
+     "11,136"
+    ],
+    [
+     "Week",
+     "November 9 to 15, 2026"
+    ]
+   ],
+   "body": "The Legend of Zelda: Ocarina of Time held the top spot in Japan's physical charts for the week of November 9 to 15, according to Famitsu data reported by Gematsu. The Switch 2 game sold 86,097 boxed copies, bringing its total to 623,138 since its November 5 launch.\n## Top five\n- The Legend of Zelda: Ocarina of Time (Switch 2): 86,097\n- Metaphor: ReFantazio (Switch 2, new): 11,167\n- Nintendo Switch Sports Resort (Switch 2): 11,086\n- Rhythm Heaven Groove (Switch): 7,779\n- Minecraft Dungeons II (Switch, new): 4,264\nAtlus's fantasy RPG Metaphor: ReFantazio arrived on Switch 2 in second place, narrowly ahead of Switch Sports Resort. Pikmin 4's Switch 2 Edition with Dandori Academy also debuted, at No. 8 with 2,854 copies. Final Fantasy Resonance was the only non-Nintendo-platform game in the top 10, at No. 10 on PS5.\n## Hardware\nSwitch 2 sold 42,402 units for the week, lifting its Japanese total past 6.6 million. That was nearly three times the combined total of every other system. The PS5 family sold 11,136, almost all of it the Digital Edition, while the original Switch family sold 3,754 and Xbox Series consoles sold 707.\nThese figures cover only physical retail sales in Japan and do not include digital downloads. GTA VI's November 19 launch will fall in next week's data.",
+   "sources": [
+    {
+     "name": "Gematsu",
+     "url": "https://www.gematsu.com/2026/11/famitsu-sales-11-9-26-11-15-26"
+    }
+   ]
   }
  ],
  "releases": [
@@ -1226,17 +1422,17 @@
    "note": "Free update"
   },
   {
-   "date": "2026-11-24",
-   "title": "Gothic 3 Classic",
-   "platforms": "Switch 2",
-   "note": ""
-  },
-  {
    "date": "2026-11-26",
    "title": "Rockstar union recognition vote closes",
    "platforms": "Industry",
    "note": "Event",
    "link": "rockstar-developers-layoff-fears-union-vote-gta-vi"
+  },
+  {
+   "date": "2026-11-26",
+   "title": "Steam Black Friday discounts",
+   "platforms": "PC",
+   "note": "10am PT Nov 26 to 10am PT Nov 30"
   },
   {
    "date": "2026-11-27",
@@ -1297,10 +1493,6 @@
    "url": "https://nintendoeverything.com/?p=928641"
   },
   {
-   "name": "Tech Insider",
-   "url": "https://tech-insider.org/upcoming-games-november-2026-nintendo-nine-releases-switch-2/"
-  },
-  {
    "name": "Icy Veins",
    "url": "https://www.icy-veins.com/wow-classic/news/warcraft-forever-releases-november-4-beta-starts-september-17/"
   },
@@ -1319,6 +1511,10 @@
   {
    "name": "IGN (via Yahoo)",
    "url": "https://www.yahoo.com/news/politics/articles/gta-6-devs-still-worried-193802732.html"
+  },
+  {
+   "name": "Steamworks",
+   "url": "https://partner.steamgames.com/doc/marketing/upcoming_events"
   }
  ]
 }
