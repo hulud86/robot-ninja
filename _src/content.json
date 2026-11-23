@@ -1,9 +1,9 @@
 {
- "edition": "2026-11-21",
- "lead": "ubisoft-h1-2026-27-results-254-million-loss-motherbrain-ai-studio",
+ "edition": "2026-11-23",
+ "lead": "gta-vi-official-day-one-sales-3-79-billion-rockstar",
  "leadCallout": {
-  "big": "€254.5M",
-  "small": "Ubisoft's IFRS net loss for the six months to September 2026, up from €161.3 million a year earlier"
+  "big": "$3.79B",
+  "small": "Take-Two's estimate of GTA VI's worldwide day-one retail sales, through the end of November 19"
  },
  "articles": [
   {
@@ -1405,16 +1405,197 @@
      "url": "https://www.gematsu.com/2026/11/famitsu-sales-11-9-26-11-15-26"
     }
    ]
+  },
+  {
+   "slug": "gta-vi-official-day-one-sales-3-79-billion-rockstar",
+   "section": "industry",
+   "date": "2026-11-23",
+   "title": "Rockstar puts GTA VI's day-one retail sales at $3.79 billion",
+   "dek": "Take-Two's own estimate, filed with US regulators, calls it the biggest entertainment launch ever and adds a record 32.5 million units sold before release.",
+   "facts": [
+    [
+     "Day-one retail sales",
+     "$3.79 billion (company estimate)"
+    ],
+    [
+     "Cutoff",
+     "End of day November 19, worldwide"
+    ],
+    [
+     "Pre-release units",
+     "32.5 million"
+    ],
+    [
+     "Announced",
+     "November 20, 2026"
+    ],
+    [
+     "Earlier estimate",
+     "About $2.36 billion (Sensor Tower)"
+    ]
+   ],
+   "body": "Rockstar Games and parent company Take-Two Interactive have put their own number on Grand Theft Auto VI's opening: an estimated $3.79 billion in worldwide retail sales on day one. The figure appeared in a press release dated November 20 that Take-Two also filed with the US Securities and Exchange Commission as part of an 8-K report.\nThe release calls GTA VI the biggest entertainment launch in history and says it set a sales record for entertainment in any medium. It also says the game sold 32.5 million units before release, which Rockstar describes as a record across all platforms.\n## How the number was counted\nA footnote says the $3.79 billion is based on company estimates through the end of November 19 worldwide. The release does not split digital from physical sales or say how units are defined, so it is not directly comparable with Take-Two's quarterly net bookings, which use a different accounting basis.\nThe official figure is well above outside estimates published the same week. Sensor Tower had estimated about $2.36 billion and 24.6 million copies by the end of launch day, and earlier reports had put preorder revenue below $2 billion.\n## What else Rockstar said\nThe release highlights the game's 99 Metacritic score and lists the stores carrying it: the PlayStation Store, Microsoft Store, Rockstar Games Store and retailers worldwide. GTA VI is out on PS5 and Xbox Series X|S, with no PC version announced.\nRockstar president Sam Houser said the studio was \"incredibly humbled by the response from players around the world.\" For context, the release notes that GTA V has sold in nearly 235 million units and the series nearly 480 million.\nTake-Two reaffirmed its fiscal 2027 net bookings forecast of $8.0 billion to $8.2 billion earlier in November.",
+   "sources": [
+    {
+     "name": "Take-Two Interactive (SEC 8-K, Exhibit 99.1)",
+     "url": "https://www.sec.gov/Archives/edgar/data/0000946581/000162828026075217/exhibit9918k.htm"
+    },
+    {
+     "name": "The Rundown",
+     "url": "https://www.therundown.ai/news/gta-6-launch-sales-take-two"
+    }
+   ]
+  },
+  {
+   "slug": "gta-vi-metacritic-user-review-bombing-ocarina-of-time",
+   "section": "news",
+   "date": "2026-11-23",
+   "title": "GTA VI's Metacritic user score sinks to 5.6 as fans start review-bombing Zelda",
+   "dek": "Thousands of zero scores have hit GTA VI's user page, and some GTA fans have retaliated against Ocarina of Time, which held Metacritic's top user score.",
+   "facts": [
+    [
+     "GTA VI critic score",
+     "99"
+    ],
+    [
+     "GTA VI user score",
+     "5.6, from 10,000+ reviews"
+    ],
+    [
+     "Ocarina of Time (2026) user score",
+     "8.3"
+    ],
+    [
+     "Ocarina of Time critic score",
+     "95"
+    ],
+    [
+     "Also targeted",
+     "1998 Ocarina of Time, SoulCalibur"
+    ]
+   ],
+   "body": "Grand Theft Auto VI may be the best-reviewed game on Metacritic, but its user score tells a different story. According to VGC, the game's user rating had fallen to 5.6 out of 10 from more than 10,000 reviews as of November 23, against a critic score of 99.\nMetacritic held back user reviews until 36 hours after launch, its usual practice, after removing fake reviews that had been posted before the game was out. Once the page opened, a large share of the scores were zeros.\n## What the low scores say\nVGC reports that many of the zero-score reviews complain about the game's story, describing it as a relationship simulator built around keeping co-lead Lucia happy. Others use culture-war language to attack the game. VGC called the pattern of zero scores suspicious.\n## The retaliation\nSome GTA fans have responded by targeting other games at the top of Metacritic's charts. The 2026 Switch 2 remake of The Legend of Zelda: Ocarina of Time, which had the highest user score on the site, has received a wave of zero ratings over the past few days. Several reviewers say they are GTA fans who believe Zelda fans bombed GTA VI first.\nThe remake's user score was still 8.3 when VGC checked, propped up by tens of thousands of positive reviews posted after its launch. The original 1998 Ocarina of Time and SoulCalibur, third on the all-time list, have also picked up zero scores from GTA fans.\n## Why it matters\nUser scores on Metacritic tend to cluster at zero and ten, and coordinated campaigns have pushed games up and down the lists before. The swings say more about fan rivalries than about how good any of these games are. Critic scores for both GTA VI and Ocarina of Time are unaffected.",
+   "sources": [
+    {
+     "name": "VGC",
+     "url": "https://www.videogameschronicle.com/news/as-gta-6-gets-review-bombed-on-metacritic-gta-fans-have-started-review-bombing-ocarina-of-time-in-response/"
+    }
+   ]
+  },
+  {
+   "slug": "gta-vi-first-patch-1-002-002-no-patch-notes",
+   "section": "news",
+   "date": "2026-11-23",
+   "title": "GTA VI gets its first post-launch patch, with no patch notes",
+   "dek": "Update 1.002.002 is rolling out in stages on PS5 and Xbox Series X|S. Rockstar hasn't said what it changes.",
+   "facts": [
+    [
+     "Version",
+     "1.002.002 (PS5), 1.0.2.2 (Xbox)"
+    ],
+    [
+     "Size",
+     "About 604MB on PS5, 1.6GB on Xbox Series X|S"
+    ],
+    [
+     "Released",
+     "November 23, 2026"
+    ],
+    [
+     "Rollout",
+     "Phased, reportedly 33% / 66% / 100% over six hours"
+    ],
+    [
+     "Patch notes",
+     "None published"
+    ]
+   ],
+   "body": "Rockstar has started rolling out the first Grand Theft Auto VI update since the game launched on November 19. Version 1.002.002 on PS5, listed as 1.0.2.2 on Xbox Series X|S, began reaching players on November 23.\nAccording to Push Square and Tbreak, the download is about 604MB on PS5 and 1.6GB on Xbox Series X|S. It is the third patch in roughly ten days, following two pre-launch updates on November 13 and November 16.\n## A staggered release\nThe update is not arriving for everyone at once. Rockstar dataminer Tex2 reported that it would reach a third of PS5 owners first, two thirds after about three hours and everyone within six hours. Push Square says the staging appears designed to avoid overloading servers. Players who don't see it yet can check for updates manually from the game's options menu on console.\n## What it fixes\nRockstar has not published patch notes, and neither of the earlier updates came with any. That leaves players guessing. Some reports describe the game feeling smoother after the update, but there is no confirmation of performance changes, and Tbreak cautions that this may be a placebo effect. The game's 30fps target on consoles, including PS5 Pro, is unchanged as far as anyone knows.\nPlayers have reported a handful of launch bugs, including a PS5 error code and an Xbox glitch that runs gameplay at double speed. It is not known whether this patch addresses either.",
+   "sources": [
+    {
+     "name": "Push Square",
+     "url": "https://www.pushsquare.com/news/2026/11/first-gta-6-ps5-patch-live-now-get-all-the-details-here"
+    },
+    {
+     "name": "Tbreak",
+     "url": "https://tbreak.com/gta-6-update-1-002-002-ps5-xbox/"
+    }
+   ]
+  },
+  {
+   "slug": "cyberleek-claims-gta-vi-xbox-development-build-leak",
+   "section": "news",
+   "date": "2026-11-23",
+   "title": "Hacker group Cyberleek claims to be leaking a GTA VI development build",
+   "dek": "The group says it has released every file from a November Xbox build except the executable, which it is holding back on a countdown. Rockstar hasn't commented.",
+   "facts": [
+    [
+     "Claimed build",
+     "Xbox build 1.0.2.1, November 2026"
+    ],
+    [
+     "Missing",
+     "Main executable, so the files can't be run"
+    ],
+    [
+     "Verified?",
+     "No; screenshots only"
+    ],
+    [
+     "Rockstar response",
+     "None reported"
+    ],
+    [
+     "Related",
+     "Take-Two has subpoenaed Discord over earlier leaks"
+    ]
+   ],
+   "body": "A hacker group calling itself Cyberleek says it has begun releasing a development build of Grand Theft Auto VI, VGC reports. The claim surfaced on November 19, the day the game launched, and has not been confirmed by Rockstar or Take-Two.\nThe group's site lists a download labeled as an Xbox build, version 1.0.2.1, dated November 2026. Cyberleek says it is distributing every file by torrent except the main executable, which it says is being held back on a countdown. It has also said it could release the executable sooner if a crypto token it promotes reaches a certain value, and that a PS5 build would follow only as a fallback.\n## What we know\nScreenshots shared on social media appear to show files from an Xbox development build, according to VGC. Without the executable, nobody can actually run the build, and the files' authenticity has not been independently verified.\nCyberleek has spent months posting what it says is GTA VI gameplay and frames its campaign as a protest over consumer rights, including the lack of a traditional disc release. VGC reports that the group has pushed crypto donations and required them to vote in polls on what to leak next.\n## Rockstar's position\nRockstar has not commented on the claimed build. Take-Two has previously described its investigation into GTA VI leaks as rapidly evolving and has filed subpoenas asking Discord for information on specific servers and users.\nThe claim comes days after Arion Kurtaj, the hacker behind the 2022 GTA VI leak, pleaded guilty in a separate case. Players should be wary of any download claiming to be a leaked build: unofficial files from anonymous sources are a common way to spread malware.",
+   "sources": [
+    {
+     "name": "VGC",
+     "url": "https://www.videogameschronicle.com/news/cyberleek-claims-to-release-development-build-of-gta-6/"
+    }
+   ]
+  },
+  {
+   "slug": "expedition-33-writer-jennifer-svedberg-yen-rockstar-union-gta-vi",
+   "section": "industry",
+   "date": "2026-11-23",
+   "title": "Expedition 33's former lead writer backs the Rockstar union push",
+   "dek": "Jennifer Svedberg-Yen says layoff fears at Rockstar after GTA VI's record launch show developers don't share fairly in the value they create.",
+   "facts": [
+    [
+     "Who",
+     "Jennifer Svedberg-Yen, former lead writer of Clair Obscur: Expedition 33"
+    ],
+    [
+     "Left Sandfall",
+     "July 2026"
+    ],
+    [
+     "Context",
+     "Rockstar union recognition vote"
+    ],
+    [
+     "Vote closes",
+     "November 26, 2026"
+    ],
+    [
+     "Reported by",
+     "PC Gamer, November 21"
+    ]
+   ],
+   "body": "The former lead writer of Clair Obscur: Expedition 33 has weighed in on the union drive at Rockstar Games, arguing that worries about layoffs after Grand Theft Auto VI's record launch point to a deeper imbalance in the industry.\nIn comments reported by PC Gamer, Jennifer Svedberg-Yen said the people who create the value in games like GTA VI don't receive a proportionate share of it. She said she hopes the Rockstar team succeeds in unionizing. Svedberg-Yen left Expedition 33 developer Sandfall Interactive in July.\n## The backdrop\nHer comments follow an op-ed in The Guardian by Rockstar animation programmer Nestor Uriarte, who wrote that there was no sign layoffs were coming but that colleagues were still anxious about their jobs. Big studios have often cut staff after a major release as they shift to post-launch support, and the past few years have seen tens of thousands of job losses across the industry.\nRockstar's UK staff are voting on union recognition, with the ballot closing on November 26. The union says about 1,600 staff are eligible to vote.\n## Why her voice carries weight\nExpedition 33 was one of the breakout hits of 2025, made by a small team, and Svedberg-Yen has become a prominent voice on how developers are treated and credited. Her intervention adds to a growing list of developers outside Rockstar publicly backing the vote, as GTA VI's sales figures make the gap between a game's earnings and job security for its makers hard to ignore.",
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "url": "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value/"
+    }
+   ]
   }
  ],
  "releases": [
-  {
-   "date": "2026-11-22",
-   "title": "Switch 2 + Mario Kart World Black Friday bundle",
-   "platforms": "Switch 2",
-   "note": "$499.99, through Dec 5",
-   "link": "black-friday-2026-nintendo-xbox-sales-start"
-  },
   {
    "date": "2026-11-24",
    "title": "Phasmophobia: Resonance update",
