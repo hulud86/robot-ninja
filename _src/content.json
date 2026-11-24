@@ -1,10 +1,7 @@
 {
- "edition": "2026-11-23",
- "lead": "gta-vi-official-day-one-sales-3-79-billion-rockstar",
- "leadCallout": {
-  "big": "$3.79B",
-  "small": "Take-Two's estimate of GTA VI's worldwide day-one retail sales, through the end of November 19"
- },
+ "edition": "2026-11-24",
+ "lead": "gta-vi-patch-1-002-002-notes-autosave-fix-wanted-level",
+ "leadCallout": null,
  "articles": [
   {
    "slug": "gta-vi-first-day-sales-24-million-2-36-billion-sensor-tower",
@@ -1593,6 +1590,186 @@
      "url": "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value/"
     }
    ]
+  },
+  {
+   "slug": "gta-vi-patch-1-002-002-notes-autosave-fix-wanted-level",
+   "section": "news",
+   "date": "2026-11-24",
+   "title": "GTA VI's first patch fixes broken autosaves, stuck weather and missing phone calls",
+   "dek": "Update 1.002.002 now has a list of fixes attached, led by the autosave bug that cost some players progress after launch.",
+   "facts": [
+    [
+     "Version",
+     "1.002.002 (PS5)"
+    ],
+    [
+     "Size",
+     "About 603MB on PS5"
+    ],
+    [
+     "Headline fix",
+     "Autosaving that didn't work correctly"
+    ],
+    [
+     "Also fixed",
+     "Crashes, frozen weather, missed phone calls, stuck Wanted Levels"
+    ],
+    [
+     "Reported by",
+     "VGC, November 23, 2026"
+    ]
+   ],
+   "body": "When Grand Theft Auto VI's first post-launch update arrived on November 23, it came with no explanation. A list of fixes has since surfaced, and the biggest one is the problem many players were worried about: autosaving.\nAccording to VGC, update 1.002.002, about 603MB on PS5, fixes autosaves that weren't working correctly. Since the game launched on November 19, players have reported autosave failures, and in some cases lost save data. VGC's advice in the meantime was to pause and save manually.\n## What else changes\nThe fixes VGC lists include:\n- Several crashes\n- Weather that stopped changing for long stretches of time\n- Phone calls that never came through, including story calls that unlock missions\n- Wanted Levels that couldn't be shaken off\n- A deadlift bar at the gym that couldn't be used\n- Partners who wouldn't hand over bags when selling to fences\nThe missing phone calls were the most disruptive of these, since a story call that never triggers can leave a player unable to progress.\n## Still unclear\nVGC's report doesn't say where the list came from, and Rockstar hadn't published official patch notes for this update when we first covered it. The update is rolling out in stages, so players who don't have it yet can check for it manually from the console's game menu.\nThere is no word yet on the other launch bugs players have reported, such as a PS5 error code and an Xbox glitch that speeds gameplay up.",
+   "sources": [
+    {
+     "name": "VGC",
+     "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving/"
+    }
+   ]
+  },
+  {
+   "slug": "unreal-engine-6-drops-blueprints-actor-gameplay-framework-verse",
+   "section": "industry",
+   "date": "2026-11-24",
+   "title": "Epic drops Blueprints from Unreal Engine 6 and bets on Verse and AI",
+   "dek": "UE6 will launch without Blueprints or the Actor Gameplay Framework, reversing Epic's June plan to keep both alongside the new tools for a while.",
+   "facts": [
+    [
+     "Engine",
+     "Unreal Engine 6"
+    ],
+    [
+     "Removed",
+     "Blueprints visual scripting, Actor Gameplay Framework"
+    ],
+    [
+     "Replacing them",
+     "Verse language and Scene Graph"
+    ],
+    [
+     "Migration",
+     "Epic expects AI to help convert UE5 projects"
+    ],
+    [
+     "Previous plan",
+     "June 2026: both would coexist in UE6 Early Access and 6.0"
+    ]
+   ],
+   "body": "Epic Games has changed its plans for Unreal Engine 6 in a way that will touch a huge number of studios. In a post on the Unreal Engine site, Epic said UE6 will not support Blueprints, the visual scripting system used across the industry, or the Actor Gameplay Framework that underpins how most Unreal games are built.\nInstead, according to Game Developer, Epic is putting its weight behind Verse, its own programming language, and Scene Graph, a hierarchical way of structuring game worlds. Game Developer says both lean heavily on AI.\n## A reversal from June\nThis is a sharp change. In June 2026, Epic said Blueprints and the Actor framework would be phased out gradually, and that they would still work alongside the new tools in UE6 Early Access and version 6.0. Now they won't be there at all.\nEpic's reasoning is AI. The company says it expects AI tools to help move UE5 projects over to UE6, possibly with no manual work, and that dropping the old systems lets it ship UE6 on schedule or earlier.\n## Why it matters\nBlueprints is how many designers and smaller teams build games without writing much traditional code. Sandfall Interactive has said Clair Obscur: Expedition 33 was almost entirely built with Blueprints, Game Developer notes.\nNot everyone is convinced. Former Valve writer Chet Faliszek said on social media that his team will stick with UE5. Studios with projects in progress are likely to make the same call, at least until the conversion tools prove themselves.\nThe move fits Epic's broader shift toward what it calls an AI-first business model.",
+   "sources": [
+    {
+     "name": "Game Developer",
+     "url": "https://www.gamedeveloper.com/programming/unreal-engine-6-to-remove-blueprints-and-actor-gameplay-framework-from-the-beginning"
+    }
+   ]
+  },
+  {
+   "slug": "gta-vi-hacker-arion-kurtaj-sentenced-five-year-online-ban",
+   "section": "news",
+   "date": "2026-11-24",
+   "title": "GTA VI leaker Arion Kurtaj is released with a five-year order limiting his online activity",
+   "dek": "A week after pleading guilty, the hacker behind the 2022 Rockstar leak was released on licence with a ban on Telegram and Discord.",
+   "facts": [
+    [
+     "Who",
+     "Arion Kurtaj"
+    ],
+    [
+     "Sentence",
+     "Serious Crime Prevention Order, five years"
+    ],
+    [
+     "Restrictions",
+     "Online activity limited, including bans on Telegram and Discord"
+    ],
+    [
+     "Status",
+     "Released on licence"
+    ],
+    [
+     "Reported by",
+     "BBC, via VGC"
+    ]
+   ],
+   "body": "The hacker who leaked Grand Theft Auto VI in 2022 has been released, a week after admitting his role in the Rockstar breach. According to the BBC, as reported by VGC, Arion Kurtaj was released on licence and handed a Serious Crime Prevention Order that restricts what he can do online for five years.\nThe order bars him from using Telegram and Discord, among other limits. The judge reportedly described Kurtaj as very talented and told him not to let it happen again.\n## How he got here\nIn September 2022, Kurtaj and others posted roughly an hour of footage from an early GTA VI build. It was the public's first look at the game, including the lead character Lucia, more than a year before Rockstar's own reveal. Rockstar said at the time that it was extremely disappointed.\nKurtaj was linked to the Lapsus$ hacking group. In late 2023 a judge found he posed a high risk of serious harm through hacking and ordered him held in a secure hospital. Earlier this year he was found fit to stand trial and moved to a regular prison in January. He pleaded guilty on November 16, three days before GTA VI launched.\nRockstar has previously said the hack cost it $5 million to recover from, according to the BBC.\nThe game he leaked has since gone on to the biggest launch in entertainment history, with Take-Two estimating $3.79 billion in day-one sales.",
+   "sources": [
+    {
+     "name": "VGC",
+     "url": "https://www.videogameschronicle.com/news/gta-6-hacker-who-leaked-footage-in-2022-has-been-released-on-licence-and-told-not-to-do-it-again/"
+    }
+   ]
+  },
+  {
+   "slug": "activision-job-listing-banjo-kazooie-premium-console-pc-title",
+   "section": "news",
+   "date": "2026-11-24",
+   "title": "Activision job listing names Banjo-Kazooie among its franchises",
+   "dek": "A posting for a project manager on 'emerging franchises' lists Banjo-Kazooie and mentions a premium console and PC game, fuelling talk of a revival.",
+   "facts": [
+    [
+     "Listing",
+     "Project Manager, Emerging Franchises"
+    ],
+    [
+     "Posted on",
+     "LinkedIn"
+    ],
+    [
+     "Mentions",
+     "Banjo-Kazooie, a premium console and PC title"
+    ],
+    [
+     "Why Activision",
+     "Rare moved under Activision in Xbox's September restructure"
+    ],
+    [
+     "Last game",
+     "Banjo-Kazooie: Nuts & Bolts (Xbox 360, 2008)"
+    ]
+   ],
+   "body": "Banjo-Kazooie now has a new home inside Microsoft, and Activision isn't hiding it. As VGC spotted, an Activision job listing on LinkedIn for a project manager working on emerging franchises names Banjo-Kazooie among the series the company now owns.\nThe listing also refers to a premium console and PC title in development. It doesn't say that game is Banjo-Kazooie, and nothing has been announced, so this is a hint rather than confirmation.\n## How the bear and bird got here\nIn September, Xbox reshuffled its studios. Halo went to Activision, and Rare, the studio that created Banjo-Kazooie, moved under Activision too, along with Age of Empires studio World's Edge.\nThere has been plenty of interest in bringing the series back. In July, Toys for Bob's Lou Studdert told Kinda Funny that his studio would like to make a Banjo game. In September, series composer Grant Kirkhope said at least three studios had pitched one to Microsoft. VGC says Toys for Bob is understood to be one of them and believes Moon Studios is another, though neither has been confirmed.\nThe last new entry was Banjo-Kazooie: Nuts & Bolts on Xbox 360, about 18 years ago.",
+   "sources": [
+    {
+     "name": "VGC",
+     "url": "https://www.videogameschronicle.com/news/activision-refers-itself-as-the-home-of-banjo-kazooie-in-new-job-listing/"
+    }
+   ]
+  },
+  {
+   "slug": "shinji-mikami-ai-gstar-2026-shift-up-kim-hyung-tae",
+   "section": "industry",
+   "date": "2026-11-24",
+   "title": "Shinji Mikami says he sometimes wishes AI would disappear, but uses it anyway",
+   "dek": "At G-STAR in South Korea, the Resident Evil creator and Shift Up's Kim Hyung-tae discussed how they use AI and where they draw the line.",
+   "facts": [
+    [
+     "Event",
+     "G-CON at G-STAR 2026, South Korea"
+    ],
+    [
+     "Speakers",
+     "Shinji Mikami (Unbound), Kim Hyung-tae (Shift Up)"
+    ],
+    [
+     "Mikami's use",
+     "Previewing 2D designs in 3D before modelling"
+    ],
+    [
+     "Shift Up's rule",
+     "No AI for story writing"
+    ],
+    [
+     "Original report",
+     "Inven Global"
+    ]
+   ],
+   "body": "Resident Evil creator Shinji Mikami has mixed feelings about AI. Speaking on stage at G-STAR 2026 in South Korea alongside Shift Up CEO Kim Hyung-tae, Mikami said he sometimes wishes AI would vanish from the world entirely, according to Inven Global's report, relayed by VGC.\nHe also admitted he experiments with it. He described sketching designs in 2D, using AI to preview them in 3D, and then handing the design to a human modeller. He said he was also interested in AI's potential to get better image quality out of the same hardware.\nMikami's bigger worry is jobs. He said that in five to ten years, core development work might no longer be driven by people, and developers could lose out.\n## Shift Up's line\nKim said Shift Up's artists now build the foundations of their work, with AI limited to supporting tasks like lighting tests, weathering textures and reducing polygon counts. That policy followed a backlash in July over an AI-generated Stellar Blade music video.\nKim argued that players don't care how efficient a studio is, so any time saved should go into raising quality. He said Shift Up doesn't use AI to write stories.\nThe two have a working relationship: Shift Up acquired Mikami's studio Unbound, a deal announced in April. Mikami founded Unbound in 2023 after leaving Tango Gameworks.",
+   "sources": [
+    {
+     "name": "VGC",
+     "url": "https://www.videogameschronicle.com/news/resident-evil-creator-shinji-mikami-says-he-wishes-ai-would-disappear-entirely-but-that-he-experiments-with-it-as-a-tool/"
+    }
+   ]
   }
  ],
  "releases": [
@@ -1601,6 +1778,12 @@
    "title": "Phasmophobia: Resonance update",
    "platforms": "PC, consoles",
    "note": "Free update"
+  },
+  {
+   "date": "2026-11-24",
+   "title": "Sniper Ghost Warrior Contracts 2",
+   "platforms": "Xbox Series X|S, PC, Cloud",
+   "note": "Joins Game Pass"
   },
   {
    "date": "2026-11-26",
@@ -1696,6 +1879,10 @@
   {
    "name": "Steamworks",
    "url": "https://partner.steamgames.com/doc/marketing/upcoming_events"
+  },
+  {
+   "name": "Pure Xbox",
+   "url": "https://www.purexbox.com/news/2026/11/four-xbox-games-are-releasing-today-plus-two-new-additions-on-xbox-game-pass-november-24"
   }
  ]
 }
