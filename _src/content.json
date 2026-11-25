@@ -1,7 +1,10 @@
 {
- "edition": "2026-11-24",
- "lead": "gta-vi-patch-1-002-002-notes-autosave-fix-wanted-level",
- "leadCallout": null,
+ "edition": "2026-11-25",
+ "lead": "sony-gta-vi-biggest-playstation-launch-39-million-players",
+ "leadCallout": {
+  "big": "39M+",
+  "small": "unique players on PS5, the biggest launch in PlayStation history"
+ },
  "articles": [
   {
    "slug": "gta-vi-first-day-sales-24-million-2-36-billion-sensor-tower",
@@ -1770,33 +1773,319 @@
      "url": "https://www.videogameschronicle.com/news/resident-evil-creator-shinji-mikami-says-he-wishes-ai-would-disappear-entirely-but-that-he-experiments-with-it-as-a-tool/"
     }
    ]
+  },
+  {
+   "slug": "sony-gta-vi-biggest-playstation-launch-39-million-players",
+   "section": "news",
+   "date": "2026-11-25",
+   "title": "Sony says GTA VI is the biggest launch in PlayStation history, with 39 million players on PS5",
+   "dek": "Sony's own figures put GTA VI at more than 39 million unique PS5 players, a PlayStation concurrent-player record and 683 million hours played in its opening days.",
+   "facts": [
+    [
+     "Unique PS5 players",
+     "More than 39 million"
+    ],
+    [
+     "Hours played",
+     "683 million, about 17.4 per player"
+    ],
+    [
+     "Concurrent players",
+     "New PlayStation record for any game"
+    ],
+    [
+     "New PS5s",
+     "First game played on 70% activated since launch"
+    ],
+    [
+     "Source of figures",
+     "Sony Interactive Entertainment"
+    ]
+   ],
+   "body": "Sony has put its own numbers on Grand Theft Auto VI's launch, and they are enormous. According to figures Sony shared this week, reported by GamesRadar and PC Gamer, more than 39 million unique players have played the game on PS5, making it the biggest launch in PlayStation history.\nThe game also set a new PlayStation record for concurrent players for any game. Players logged 683 million hours in total during the opening days, which works out at roughly 17.4 hours each.\n## A boost for PS5 hardware\nGTA VI was also pulling in new console owners. Sony said it was the first game played on 70% of the new PS5s activated since launch day. The company also recorded its biggest single day of newly connected PS5s outside the holiday season.\nThese figures cover PlayStation only. GTA VI is also out on Xbox Series X|S, and Rockstar has already said the game's day-one retail sales reached $3.79 billion across all platforms.\n## Other games felt it\nThe launch seems to have pulled players away from other big live games. Rhys Elliott, head of market analysis at Alinea Analytics, estimated on X that daily Call of Duty players across PlayStation, Xbox and Steam fell by about 42% after GTA VI arrived, from around 7.5 million to 4.4 million. He estimated a 28% drop for Fortnite on PlayStation and Xbox. These are analyst estimates, not official numbers from Activision or Epic.",
+   "sources": [
+    {
+     "name": "GamesRadar",
+     "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-the-biggest-launch-in-playstation-history-with-sony-reporting-more-than-39-million-unique-players-playing-rockstars-new-game-on-ps5/"
+    },
+    {
+     "name": "GamesRadar (Alinea Analytics estimate)",
+     "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-hit-call-of-duty-hard-analyst-reports-with-a-42-percent-drop-in-daily-players-and-when-rockstar-releases-online-its-going-to-be-rough-times-for-activision/"
+    }
+   ]
+  },
+  {
+   "slug": "cd-projekt-q3-witcher-4-2028-cyberpunk-2-progress",
+   "section": "industry",
+   "date": "2026-11-25",
+   "title": "CD Projekt says Witcher 4 is planned for 2028 and Cyberpunk 2 is making good progress",
+   "dek": "On its Q3 earnings call, CD Projekt compared the jump to Witcher 4 with the jump from GTA 5 to GTA 6, and said it wants shorter gaps between its RPGs.",
+   "facts": [
+    [
+     "Call",
+     "CD Projekt Q3 2026 earnings, November 24"
+    ],
+    [
+     "The Witcher 4",
+     "Planned for 2028, per PC Gamer"
+    ],
+    [
+     "Cyberpunk 2",
+     "Not yet in full production; no date"
+    ],
+    [
+     "Cyberpunk 2 team",
+     "About 200 by end of 2026, about 320 by end of 2027"
+    ],
+    [
+     "GTA VI effect",
+     "No material impact expected on Q4"
+    ]
+   ],
+   "body": "CD Projekt used its third-quarter earnings call on November 24 to update investors on its next two big RPGs, according to reports from PC Gamer and GamesRadar.\n## The Witcher 4\nJoint CEO Michał Nowakowski said the leap from The Witcher 3 to The Witcher 4 would be comparable to the one from GTA 5 to GTA 6, pointing out that 11 years will have passed between the games. PC Gamer reports that The Witcher 4 is planned for 2028.\n## Cyberpunk 2\nKarolina Gnaś, CD Projekt's VP of strategy and investor relations, said the Cyberpunk 2077 sequel is making good progress but is not yet in full production, so it is too early to talk about a release date. PC Gamer says the game is not expected before 2030. The team is expected to grow to about 200 developers by the end of 2026 and about 320 by the end of 2027.\n## Shorter waits\nThe studio said it plans to run several productions in parallel, some of them with external teams, so that fans don't have to wait as long between its games in future.\nAsked about Grand Theft Auto VI, Nowakowski said he doesn't expect Rockstar's launch to have a material impact on CD Projekt's fourth quarter.",
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "url": "https://www.pcgamer.com/games/the-witcher/the-difference-between-the-witcher-3-and-witcher-4-will-be-comparable-to-that-of-gta-5-and-gta-6-cd-projekt-boss-says-i-mean-its-been-11-years/"
+    },
+    {
+     "name": "GamesRadar",
+     "url": "https://www.gamesradar.com/games/cyberpunk/cyberpunk-2-is-making-good-progress-and-cd-projekt-is-making-sure-fans-dont-have-to-wait-so-long-between-its-rpgs-in-the-future/"
+    }
+   ]
+  },
+  {
+   "slug": "lords-of-the-fallen-2-delayed-april-2027",
+   "section": "news",
+   "date": "2026-11-25",
+   "title": "Lords of the Fallen II slips to April 2027, with an exact date coming in December",
+   "dek": "CI Games' CEO says the soulslike sequel now launches in April 2027. It's the game's second delay, after an earlier move to the first quarter of 2027.",
+   "facts": [
+    [
+     "New window",
+     "April 2027"
+    ],
+    [
+     "Exact date",
+     "To be announced in December"
+    ],
+    [
+     "Announced by",
+     "CI Games CEO Marek Tyminski"
+    ],
+    [
+     "Previous windows",
+     "H2 2026, then Q1 2027"
+    ],
+    [
+     "First revealed",
+     "Gamescom Opening Night Live 2025"
+    ]
+   ],
+   "body": "Lords of the Fallen II has been pushed back again. CI Games CEO Marek Tyminski posted that the soulslike sequel will launch in April 2027, and said the exact release date will be announced in December, GamesRadar reports.\nThe game was first announced at Gamescom Opening Night Live in 2025 with a release planned for the second half of 2026. In June, it moved to the first quarter of 2027. April is a further slip of at least a few weeks.\nNo reason for the latest delay was given in the announcement, and CI Games didn't use it to confirm the game's platforms.\nThe sequel follows 2023's Lords of the Fallen, a reboot of CI Games' soulslike series.\nWe'll add the exact date to our release radar once CI Games announces it next month.",
+   "sources": [
+    {
+     "name": "GamesRadar",
+     "url": "https://www.gamesradar.com/games/action-rpg/lords-of-the-fallen-2-launches-in-april-2027-boss-of-the-soulslike-rpg-announces-and-a-release-date-is-coming-next-month/"
+    }
+   ]
+  },
+  {
+   "slug": "capcom-exoprimal-servers-shutting-down-september-2027",
+   "section": "news",
+   "date": "2026-11-25",
+   "title": "Capcom is shutting down Exoprimal, with servers closing in September 2027",
+   "dek": "Capcom's online dinosaur shooter will be removed from sale on March 30, 2027, and become unplayable when its servers go offline on September 29, 2027.",
+   "facts": [
+    [
+     "Delisted",
+     "March 30, 2027"
+    ],
+    [
+     "Servers close",
+     "September 29, 2027"
+    ],
+    [
+     "Offline mode",
+     "None; the game becomes unplayable"
+    ],
+    [
+     "Survival Pass",
+     "Paid premium tiers already removed"
+    ],
+    [
+     "Launched",
+     "2023"
+    ]
+   ],
+   "body": "Capcom has announced the end of Exoprimal, its online team shooter about fighting hordes of dinosaurs in exosuits, GamesRadar reports.\nThe game will be removed from sale on March 30, 2027. Its servers will shut down on September 29, 2027, and because Exoprimal has no offline or single-player mode, it will not be playable at all after that date.\nThe paid premium tiers of the Survival Pass have already been taken out of the in-game store.\n## A short life\nExoprimal launched in 2023 and was available on Game Pass at release. Capcom stopped adding new content after Season 4 in 2024, so the shutdown doesn't come as a big surprise to the players who stayed.\nThe announcement gives players almost a full year of play before the lights go out. Anyone thinking of buying it to try has until the end of March 2027.\nIt's another reminder of how fragile online-only games are. Once the servers are gone, there's no way to play what you paid for.",
+   "sources": [
+    {
+     "name": "GamesRadar",
+     "url": "https://www.gamesradar.com/games/action/capcom-is-shutting-down-online-dinosaur-shooter-exoprimal-next-year-4-years-after-it-first-released/"
+    }
+   ]
+  },
+  {
+   "slug": "uk-boxed-chart-gta-vi-number-one-code-in-a-box",
+   "section": "news",
+   "date": "2026-11-25",
+   "title": "GTA VI tops the UK boxed chart even though the box has no disc",
+   "dek": "GTA VI's code-in-a-box edition entered the UK physical chart at No. 1, pushing the Ocarina of Time remake down to third, as Black Friday deals lifted older PS5 games.",
+   "facts": [
+    [
+     "No. 1",
+     "Grand Theft Auto VI (new entry)"
+    ],
+    [
+     "No. 2",
+     "EA Sports FC 27"
+    ],
+    [
+     "No. 3",
+     "Zelda: Ocarina of Time"
+    ],
+    [
+     "Physical format",
+     "Download code in a box, no disc"
+    ],
+    [
+     "Biggest climber",
+     "Marvel's Wolverine, 18 to 6"
+    ],
+    [
+     "Chart",
+     "GfK UK boxed sales"
+    ]
+   ],
+   "body": "Grand Theft Auto VI has gone straight to No. 1 on the UK's boxed games chart, according to GfK data reported by Nintendo Life and Games Asylum. That's despite the fact that the physical edition doesn't contain a disc. It's a download code in a box.\nAmazon UK alone reportedly sold more than 40,000 copies of the PS5 code-in-a-box edition.\n## The top 10\n- 1. Grand Theft Auto VI\n- 2. EA Sports FC 27\n- 3. The Legend of Zelda: Ocarina of Time\n- 4. Call of Duty: Modern Warfare 4\n- 5. Switch Sports Resort\n- 6. Marvel's Wolverine\n- 7. Mario Kart World\n- 8. Minecraft\n- 9. Onimusha: Way of the Sword\n- 10. Elden Ring\nThe Ocarina of Time remake has now fallen for three weeks in a row since its launch-week top spot. Marvel's Wolverine jumped from 18th to sixth, and Elden Ring re-entered the top 10.\n## Black Friday helps PlayStation\nEarly Black Friday discounts gave a lift to several older PlayStation games. Gran Turismo 7, Marvel's Spider-Man 2, Cyberpunk 2077, Astro Bot and Ghost of Yotei all climbed into the lower half of the top 20.\nThe only new release in the top 40 besides GTA VI was The Grinch 2: Saving Christmas, at No. 40.\nThe UK boxed chart only counts physical sales, so it misses the large share of GTA VI copies bought digitally.",
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "url": "https://www.nintendolife.com/news/2026/11/uk-charts-no-disc-no-problem-gta-6-shoves-zelda-further-down-the-ranking"
+    },
+    {
+     "name": "Games Asylum",
+     "url": "https://www.gamesasylum.com/2026/11/24/gta-vi-tops-the-uk-retail-chart-while-black-friday-deals-push-first-party-ps5-releases/"
+    }
+   ]
+  },
+  {
+   "slug": "nioh-3-bloody-insurrection-dlc-december-17-xbox-january-28",
+   "section": "news",
+   "date": "2026-11-25",
+   "title": "Nioh 3's final DLC arrives early on December 17, and the series comes to Xbox in January",
+   "dek": "Koei Tecmo moved Nioh 3's Bloody Insurrection DLC up from February to December 17, and Nioh 3 Complete Edition launches on Xbox Series X|S on January 28.",
+   "facts": [
+    [
+     "DLC",
+     "Bloody Insurrection, second and final"
+    ],
+    [
+     "DLC release",
+     "December 17, 2026 (was February)"
+    ],
+    [
+     "Complete Edition",
+     "January 28, 2027"
+    ],
+    [
+     "Complete Edition platforms",
+     "Xbox Series X|S, PS5, PC"
+    ],
+    [
+     "First on Xbox",
+     "Yes, after nearly a decade on PlayStation"
+    ]
+   ],
+   "body": "Koei Tecmo and Team Ninja have pulled Nioh 3's last expansion forward. Bloody Insurrection, the second and final DLC for the game, now launches on December 17, 2026 instead of February, GamesRadar reports.\n## Nioh comes to Xbox\nThe bigger news for some players is a new platform. Nioh 3 Complete Edition, which bundles the base game with its DLC, launches on January 28, 2027. It's coming to Xbox Series X|S as well as PS5 and PC.\nThat makes it the first time a Nioh game has been released on Xbox. The series has been on PlayStation, and later PC, for almost a decade since the first game arrived in 2017.\nKoei Tecmo didn't give a price for the DLC in the announcement.\nThe move fits a wider pattern of Japanese action games that used to be PlayStation console exclusives turning up on Xbox. We've added the DLC date to our release radar.",
+   "sources": [
+    {
+     "name": "GamesRadar",
+     "url": "https://www.gamesradar.com/games/action/ahead-of-schedule-nioh-3-is-getting-its-second-dlc-next-month-and-the-action-series-is-finally-coming-to-xbox-in-january-after-almost-a-decade-of-playstation-exclusivity/"
+    }
+   ]
+  },
+  {
+   "slug": "ken-kutaragi-console-prices-not-healthy-may-not-need-consoles",
+   "section": "industry",
+   "date": "2026-11-25",
+   "title": "PlayStation creator Ken Kutaragi says console prices are not healthy and consoles may not be needed",
+   "dek": "In an interview with The Game Business, Kutaragi blamed costly graphics hardware and RAM shortages for high prices, and floated a lightweight platform that isn't a console or phone.",
+   "facts": [
+    [
+     "Who",
+     "Ken Kutaragi, creator of the PlayStation"
+    ],
+    [
+     "Current role",
+     "President and CEO, Cyber AI Entertainment"
+    ],
+    [
+     "Interview",
+     "The Game Business"
+    ],
+    [
+     "Blamed",
+     "Expensive GPUs and RAM shortages tied partly to AI"
+    ],
+    [
+     "Caveat",
+     "Not official Sony views"
+    ]
+   ],
+   "body": "Ken Kutaragi, the engineer who led the creation of the original PlayStation, thinks the console business is heading somewhere uncomfortable. In an interview with The Game Business, reported by GamesRadar, he described current console prices as not a healthy situation.\nKutaragi, who is now president and CEO of Cyber AI Entertainment, pointed to the cost of high-end graphics hardware and to RAM shortages, which he partly linked to demand from the AI industry.\n## PC-like consoles\nHe said Sony and Microsoft moving their consoles to PC-like architecture has made it easier to release games on several platforms, but it has also pushed hardware costs up.\nLooking ahead, Kutaragi suggested a time may come when dedicated consoles aren't needed. He floated the idea of a lightweight platform that is neither a traditional console nor a smartphone, though he didn't describe a specific product.\nKutaragi made clear that his comments were his own and not the views of Sony Interactive Entertainment, which he left many years ago.\nHis remarks come in a year when rising component costs have pushed up the price of new hardware, including Valve's warning that Steam Machine prices may rise.",
+   "sources": [
+    {
+     "name": "GamesRadar",
+     "url": "https://www.gamesradar.com/games/playstation-creator-says-the-age-may-be-coming-where-we-dont-need-any-consoles-thanks-to-high-prices-and-ai-its-not-a-healthy-situation/"
+    }
+   ]
+  },
+  {
+   "slug": "mario-kart-world-update-1-9-0-eight-new-tracks-update-of-2s",
+   "section": "news",
+   "date": "2026-11-25",
+   "title": "Mario Kart World update 1.9.0 adds eight tracks, all sequels to classic courses",
+   "dek": "Fans have nicknamed Mario Kart World's latest Switch 2 patch the update of 2s: its eight new tracks are all second versions of existing courses, plus two Knockout Tour routes.",
+   "facts": [
+    [
+     "Update",
+     "Version 1.9.0, Switch 2"
+    ],
+    [
+     "New tracks",
+     "8, all \"2\" versions of existing courses"
+    ],
+    [
+     "New Knockout Tour routes",
+     "Feather Rally, Lucky Cat Rally"
+    ],
+    [
+     "Previous update",
+     "1.8.0 in September, 10 SNES tracks"
+    ],
+    [
+     "Next",
+     "A bigger 2.0 update is expected"
+    ]
+   ],
+   "body": "Nintendo has released version 1.9.0 of Mario Kart World on Switch 2, and fans have quickly nicknamed it the update of 2s, GamesRadar reports. All eight new tracks are sequel versions of courses from earlier Mario Kart games.\n## The new tracks\nThe additions include:\n- Airship Fortress 2\n- Desert Hills 2\n- DK Pass 2\n- Mario Bros. Circuit 2\n- Koopa Troopa Beach 2\n- Salty Salty Speedway 2\n- Wario Stadium 2\nGamesRadar's report didn't name the eighth track.\n## Other changes\nThe update also adds two new Knockout Tour routes, Feather Rally and Lucky Cat Rally. Results screens now get confetti, and the river route to Cheep Cheep Falls can now be reached from five more courses.\nFan reaction has been mixed. Some players are happy to see more content, while others wanted brand-new courses rather than follow-ups to old ones.\nThe patch follows September's 1.8.0 update, which added 10 tracks from the SNES era. A larger 2.0 update is expected later.",
+   "sources": [
+    {
+     "name": "GamesRadar",
+     "url": "https://www.gamesradar.com/games/super-mario/mario-kart-world-patch-adds-8-new-tracks-but-theyre-all-sequels-to-nintendos-old-maps-and-fans-arent-sure-how-they-feel-update-of-2s/"
+    }
+   ]
   }
  ],
  "releases": [
-  {
-   "date": "2026-11-24",
-   "title": "Phasmophobia: Resonance update",
-   "platforms": "PC, consoles",
-   "note": "Free update"
-  },
-  {
-   "date": "2026-11-24",
-   "title": "Sniper Ghost Warrior Contracts 2",
-   "platforms": "Xbox Series X|S, PC, Cloud",
-   "note": "Joins Game Pass"
-  },
   {
    "date": "2026-11-26",
    "title": "Rockstar union recognition vote closes",
    "platforms": "Industry",
    "note": "Event",
    "link": "rockstar-developers-layoff-fears-union-vote-gta-vi"
-  },
-  {
-   "date": "2026-11-26",
-   "title": "Steam Black Friday discounts",
-   "platforms": "PC",
-   "note": "10am PT Nov 26 to 10am PT Nov 30"
   },
   {
    "date": "2026-11-27",
@@ -1816,12 +2105,18 @@
    "date": "2026-12-03",
    "title": "Xenoblade Chronicles 3 – Nintendo Switch 2 Edition",
    "platforms": "Switch 2",
-   "note": ""
+   "note": "$9.99 upgrade pack"
   },
   {
    "date": "2026-12-03",
    "title": "Warhammer 40,000: Dawn of War IV",
    "platforms": "PC",
+   "note": "Early access Nov 30 with Commander Edition"
+  },
+  {
+   "date": "2026-12-03",
+   "title": "Rayman Legends Retold",
+   "platforms": "PS5, Xbox Series X|S, Switch 2, PC",
    "note": ""
   },
   {
@@ -1849,40 +2144,69 @@
    "title": "Professor Layton and the New World of Steam",
    "platforms": "PS5, Switch, Switch 2, PC",
    "note": ""
+  },
+  {
+   "date": "2026-12-17",
+   "title": "Nioh 3: Bloody Insurrection",
+   "platforms": "PS5, PC",
+   "note": "Final DLC, moved up from February",
+   "link": "nioh-3-bloody-insurrection-dlc-december-17-xbox-january-28"
+  },
+  {
+   "date": "2026-12-17",
+   "title": "Steam Winter Sale begins",
+   "platforms": "PC",
+   "note": "Runs to January 4"
   }
  ],
  "releaseSources": [
   {
-   "name": "Nintendo Everything",
-   "url": "https://nintendoeverything.com/?p=928641"
+   "name": "Xbox Wire",
+   "url": "https://news.xbox.com/en-us/2026/11/17/xbox-game-pass-november-2026-wave-2/"
+  },
+  {
+   "name": "God is a Geek (Game Pass)",
+   "url": "https://godisageek.com/2026/11/game-pass-november-games-motorslice-arkheron/"
+  },
+  {
+   "name": "Steam (Dawn of War IV)",
+   "url": "https://store.steampowered.com/app/2272360/Warhammer_40000_Dawn_of_War_IV/"
+  },
+  {
+   "name": "Game Informer",
+   "url": "https://gameinformer.com/nintendo-direct/2026/09/09/xenoblade-chronicles-3-switch-2-edition-adds-a-survivors-like-mode-and"
+  },
+  {
+   "name": "Metacritic (Rayman Legends Retold)",
+   "url": "https://www.metacritic.com/game/rayman-legends-retold/"
+  },
+  {
+   "name": "Nintendo Life",
+   "url": "https://www.nintendolife.com/news/2026/11/pokemon-pokopias-second-dlc-wave-launches-next-month"
+  },
+  {
+   "name": "Level-5 (Professor Layton)",
+   "url": "https://www.layton.jp/jouki/en-us/"
+  },
+  {
+   "name": "Peacock Theater (The Game Awards)",
+   "url": "https://www.peacocktheater.com/events/detail/the-game-awards-121026"
+  },
+  {
+   "name": "GamesRadar (Nioh 3)",
+   "url": "https://www.gamesradar.com/games/action/ahead-of-schedule-nioh-3-is-getting-its-second-dlc-next-month-and-the-action-series-is-finally-coming-to-xbox-in-january-after-almost-a-decade-of-playstation-exclusivity/"
+  },
+  {
+   "name": "SteamDB",
+   "url": "https://steamdb.com/en/tools/steam-sales"
   },
   {
    "name": "Icy Veins",
    "url": "https://www.icy-veins.com/wow-classic/news/warcraft-forever-releases-november-4-beta-starts-september-17/"
   },
   {
-   "name": "Xbox Wire",
-   "url": "https://news.xbox.com/en-us/2026/11/17/xbox-game-pass-november-2026-wave-2/"
-  },
-  {
-   "name": "Gematsu",
-   "url": "https://www.gematsu.com/2026/11/nintendo-announces-black-friday-2026-deals"
-  },
-  {
-   "name": "VGC",
-   "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/"
-  },
-  {
    "name": "IGN (via Yahoo)",
    "url": "https://www.yahoo.com/news/politics/articles/gta-6-devs-still-worried-193802732.html"
-  },
-  {
-   "name": "Steamworks",
-   "url": "https://partner.steamgames.com/doc/marketing/upcoming_events"
-  },
-  {
-   "name": "Pure Xbox",
-   "url": "https://www.purexbox.com/news/2026/11/four-xbox-games-are-releasing-today-plus-two-new-additions-on-xbox-game-pass-november-24"
   }
  ]
 }
