@@ -1,7 +1,10 @@
 {
-  "edition": "2026-11-26",
-  "lead": "team-cherry-cherry-time-showcase-silksong-sea-of-sorrow-november-27",
-  "leadCallout": null,
+  "edition": "2026-11-27",
+  "lead": "rockstar-staff-vote-against-iwgb-union-recognition-75-percent",
+  "leadCallout": {
+    "big": "75%",
+    "small": "of voting Rockstar UK staff rejected union recognition"
+  },
   "articles": [
     {
       "slug": "gta-vi-first-day-sales-24-million-2-36-billion-sensor-tower",
@@ -2258,16 +2261,221 @@
           "url": "https://insider-gaming.com/gta-6-doesnt-allow-you-to-replay-story-missions/"
         }
       ]
+    },
+    {
+      "slug": "rockstar-staff-vote-against-iwgb-union-recognition-75-percent",
+      "section": "industry",
+      "date": "2026-11-27",
+      "title": "Rockstar's UK staff vote three to one against recognizing the IWGB union",
+      "dek": "In a ballot that overlapped GTA VI's launch, 1,163 of 1,544 voting employees said no to formal recognition. The union says it will keep organizing.",
+      "facts": [
+        [
+          "Result",
+          "75.3% against, 24.7% for"
+        ],
+        [
+          "Votes",
+          "1,163 against, 381 for"
+        ],
+        [
+          "Turnout",
+          "93.2%"
+        ],
+        [
+          "Ballot",
+          "November 12 to 26"
+        ],
+        [
+          "Union",
+          "IWGB Rockstar Game Workers Union"
+        ],
+        [
+          "Still pending",
+          "Tribunal over 2025 dismissals"
+        ]
+      ],
+      "body": "Rockstar Games employees in the UK have voted against formally recognizing a union. The two-week ballot closed on November 26, and about three in four staff who took part said no to a recognition deal with the IWGB Rockstar Game Workers Union, according to VGC, IGN and Engadget.\nIGN reports that 1,544 employees across Rockstar's UK studios in Edinburgh, Leeds, Lincoln, Dundee and London cast a vote, a turnout of 93.2%. Of those, 1,163 voted against and 381 voted in favor. Recognition would have made it the largest recognized union in the UK games industry, IGN says.\n## What recognition would have meant\nA recognition agreement would have given the union a formal framework to negotiate with management on pay, overtime, bonuses, leave, pensions, and how AI and redundancies affect staff, according to VGC. Without it, Rockstar isn't obliged to hold regular meetings with union representatives. Staff can still join the IWGB, and the union can still represent individual members.\n## Both sides respond\nJennifer Kolbe, Rockstar's head of publishing, said in a statement that the company was proud of its team and the GTA VI launch, and that the result showed staff support for keeping direct relationships and open dialogue with management. Before the vote she had told Bloomberg that Rockstar would follow the team's wishes either way.\nThe union said hundreds of workers had backed it and that the result was a reason to push harder, not to retreat. It says it will keep campaigning for pay transparency, paid overtime written into contracts, and protections against AI and layoffs.\n## The tribunal is still open\nThe vote came a year after Rockstar dismissed a group of UK staff in 2025. Reports put the number at 31 or 34. The IWGB says the firings were union busting and unlawful. Rockstar says the staff leaked confidential information. An employment tribunal has heard closing arguments, and a judgment hasn't been issued yet.",
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://videogameschronicle.com/news/75-of-rockstars-workers-have-voted-against-unionizing"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/rockstar-games-issues-statement-as-union-vote-fails"
+        },
+        {
+          "name": "Engadget",
+          "url": "https://www.engadget.com/2329177/workers-gta-6-studio-rockstar-games-vote-against-union-recognition/"
+        }
+      ]
+    },
+    {
+      "slug": "ubisoft-says-generative-ai-not-required-pitch-rules-report",
+      "section": "industry",
+      "date": "2026-11-27",
+      "title": "Ubisoft says its games aren't required to use generative AI after a report on pitch rules",
+      "dek": "Ubisoft staff reportedly have to explain how a new game would use generative AI, or why it won't. The publisher says the choice stays with each team.",
+      "facts": [
+        [
+          "Original report",
+          "Vertical Slice, anonymous Ubisoft staff"
+        ],
+        [
+          "Reported rule",
+          "Pitches must cover gen AI use or justify skipping it"
+        ],
+        [
+          "Ubisoft's position",
+          "Encouraged, not required"
+        ],
+        [
+          "Who decides",
+          "Each game team"
+        ]
+      ],
+      "body": "Ubisoft says its game projects don't have to use generative AI, responding to a report that teams pitching new games must explain how they would use the technology or justify leaving it out.\n## What was reported\nThe report came from Vertical Slice, which spoke to several current Ubisoft employees who weren't named. According to that reporting, new pitch rules ask teams to address generative AI directly: either lay out how the game would use it or explain why it wouldn't. Pitches that address neither would reportedly not get the go-ahead. One source said the company wasn't explicitly forcing teams to use AI, but that leadership's enthusiasm left staff feeling pressured to include it.\n## Ubisoft's answer\nIn a statement carried by several outlets, Ubisoft said it encourages teams to explore AI tools but that projects aren't required to use generative AI, and that each team decides what fits its game.\nThe report lands days after Ubisoft's half-year results, which included a €254.5 million loss and a plan to spin its generative AI work into a separate studio. Chief executive Yves Guillemot has repeatedly described generative AI as a major shift for the industry, and the company has been hiring for AI-related roles across its studios. Game workers' unions in Europe have pushed back on that direction, calling for limits on how the technology is used in development.",
+      "sources": [
+        {
+          "name": "SavePoint Gaming",
+          "url": "https://savepointgaming.co/games/ubisoft-generative-ai-game-pitches/"
+        },
+        {
+          "name": "Particle (roundup of coverage)",
+          "url": "https://particle.news/story/ubisoft-says-ai-is-optional-as-employees-say-pitches-must-explain-or-justify-generative-ai-use"
+        }
+      ]
+    },
+    {
+      "slug": "ubisoft-skull-and-bones-aaaa-classic-puffery-kansas-lawsuit",
+      "section": "industry",
+      "date": "2026-11-27",
+      "title": "Ubisoft tells a court that calling Skull and Bones 'AAAA' was just puffery",
+      "dek": "A player who sued under Kansas consumer law says the label misled buyers. Ubisoft's lawyers reportedly argue it was hype, not a promise.",
+      "facts": [
+        [
+          "Plaintiff",
+          "Jacob Himberger"
+        ],
+        [
+          "Filed",
+          "2025, in Kansas"
+        ],
+        [
+          "Claim",
+          "Deceptive marketing under Kansas consumer protection law"
+        ],
+        [
+          "The quote",
+          "Yves Guillemot, February 2024 earnings call"
+        ],
+        [
+          "Ubisoft's defense",
+          "'Classic puffery', per Game File"
+        ],
+        [
+          "Ruling",
+          "None yet"
+        ]
+      ],
+      "body": "Ubisoft's lawyers have argued in court that describing Skull and Bones as a \"AAAA\" game was marketing hype rather than a promise about quality, according to Game File's reporting as covered by Game World Observer and 80.lv.\n## Where the label came from\nUbisoft chief executive Yves Guillemot used the term during a Q&A on an earnings call in February 2024, while explaining why the pirate game cost $70. Skull and Bones had spent more than a decade in development. It launched to a lukewarm reception, and its price was cut within weeks, 80.lv notes.\n## The lawsuit\nPlayer Jacob Himberger sued Ubisoft in 2025 under Kansas consumer protection law, arguing the AAAA label misled buyers. He asks for compensation for everyone who bought the game, and his complaint lists potential penalties of up to $10,000 for each of several alleged violations, according to 80.lv. He also argues Ubisoft suggested buyers owned the game when they only received a license to play it.\nUbisoft's response, as reported, is that the wording was \"classic puffery\": broad, boastful language that makes no specific claim, which consumer law generally doesn't punish. It isn't known how Ubisoft answered the ownership argument.\n80.lv reports that the case has moved between courts, with a Kansas federal court transferring it to California. The outlets haven't reported a ruling on Ubisoft's argument.",
+      "sources": [
+        {
+          "name": "Game World Observer",
+          "url": "https://gameworldobserver.com/2026/11/26/it-was-just-hyperbole-ubisoft-explained-to-the-court-why-it-called-skull-and-bones-a-aaaa-level-game"
+        },
+        {
+          "name": "80.lv",
+          "url": "https://80.lv/articles/ubisoft-s-lawyers-said-calling-skull-and-bones-an-aaaa-game-was-classic-puffery"
+        }
+      ]
+    },
+    {
+      "slug": "showa-american-story-delayed-october-28-2027-ps5-pc",
+      "section": "news",
+      "date": "2026-11-27",
+      "title": "Showa American Story is delayed to October 28, 2027",
+      "dek": "Nekcom's zombie-filled 1980s action RPG was due in 2026. The studio says the core game is finished and the extra time is for polish and optimization.",
+      "facts": [
+        [
+          "New date",
+          "October 28, 2027"
+        ],
+        [
+          "Previous window",
+          "2026"
+        ],
+        [
+          "Platforms",
+          "PS5, PC (Steam)"
+        ],
+        [
+          "Developer",
+          "Nekcom Entertainment"
+        ],
+        [
+          "Publisher",
+          "4Divinity"
+        ],
+        [
+          "Reason",
+          "Polish and optimization"
+        ]
+      ],
+      "body": "Showa American Story, the action RPG from Chinese studio Nekcom Entertainment, now launches on October 28, 2027 for PlayStation 5 and PC. Nekcom announced the new date on its X account, and Game Informer and RPG Site reported it.\nThe game had been due in 2026, and Game Informer notes that the lack of news as the year wound down had already made that look unlikely.\n## Content complete, polish to come\nNekcom says the core content of the game is done and that the next eleven months will go into polishing and optimizing it. It's the second delay for the game, which was pushed from 2025 into 2026 last year.\n## What it is\nShowa American Story is set in an alternate 1980s where a Japanese-flavored America has been overrun by zombies and monsters. You play as Choko, who comes back from the dead and fights through the wreckage with melee weapons, guns and vehicles. Its demo was one of Game Informer's favorite action games at Gamescom.\nThe game is published by 4Divinity and is listed on Steam with the new date.",
+      "sources": [
+        {
+          "name": "Game Informer",
+          "url": "https://gameinformer.com/2026/11/24/one-of-our-favorite-action-games-from-gamescom-showa-american-story-has-been-delayed-to"
+        },
+        {
+          "name": "RPG Site",
+          "url": "https://www.rpgsite.net/news/21814-showa-american-story-launches-on-october-28-2027-for-playstation-5-pc"
+        }
+      ]
+    },
+    {
+      "slug": "gta-vi-unofficial-pc-port-multiplayer-reportedly-running",
+      "section": "news",
+      "date": "2026-11-27",
+      "title": "Unofficial GTA VI PC ports reportedly have multiplayer running",
+      "dek": "A port tracker says a private group has players, cars and voice chat working at 25 to 30fps, built on the leaked Xbox code. Rockstar hasn't commented.",
+      "facts": [
+        [
+          "Status",
+          "Reported, not official"
+        ],
+        [
+          "Source",
+          "PortWatch tracker"
+        ],
+        [
+          "Reported performance",
+          "25 to 30fps"
+        ],
+        [
+          "Based on",
+          "Leaked Xbox build"
+        ],
+        [
+          "Official PC version",
+          "Not announced"
+        ],
+        [
+          "GTA Online for VI",
+          "Not announced"
+        ]
+      ],
+      "body": "Fan projects trying to run Grand Theft Auto VI on PC now reportedly have a basic form of multiplayer working, GamesRadar reports. None of this is official, and Rockstar hasn't announced a PC version or an online mode for GTA VI.\n## What's being claimed\nPortWatch, a tracker that follows unofficial port efforts, posted late on November 26 that multiplayer was running on PC and said it had checked that the video was genuine. The build comes from a private group working on its own fork of an existing port. It reportedly shows several players, cars and proximity voice chat at a steady 25 to 30 frames per second. PortWatch's own tracker puts the overall effort at 91.3% of the way to a working game, a figure that can't be checked independently.\nGamesRadar is clear that this is a long way from a full online mode. There are no missions or progression, just players sharing the same space.\n## Built on leaked code\nThe ports trace back to the hacker group Cyberleek, which claimed last week to be leaking a GTA VI development build and released an executable from the Xbox version. Port groups have been working from that code since. VideoCardz reports that mods may be starting to appear too.\nThe ports rely on leaked material and are almost certain to face legal action. At least one high-profile project has already gone through an apparent Discord takedown. Rockstar hasn't responded to the reports, and GTA VI is still only on PS5 and Xbox Series X|S.",
+      "sources": [
+        {
+          "name": "GamesRadar",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-multiplayer-reportedly-running-on-pc-as-unofficial-ports-near-completion-but-its-certainly-no-grand-theft-auto-online/"
+        }
+      ]
     }
   ],
   "releases": [
-    {
-      "date": "2026-11-26",
-      "title": "Rockstar union recognition vote closes",
-      "platforms": "Industry",
-      "note": "Event",
-      "link": "rockstar-developers-layoff-fears-union-vote-gta-vi"
-    },
     {
       "date": "2026-11-27",
       "title": "Arkheron (Game Preview)",
@@ -2328,6 +2536,12 @@
       "note": ""
     },
     {
+      "date": "2026-12-14",
+      "title": "STARDUST: Wish of Witch",
+      "platforms": "PS5, Switch 2",
+      "note": "Digital; already on PC"
+    },
+    {
       "date": "2026-12-17",
       "title": "Nioh 3: Bloody Insurrection",
       "platforms": "PS5, PC",
@@ -2379,16 +2593,16 @@
       "url": "https://www.icy-veins.com/wow-classic/news/warcraft-forever-releases-november-4-beta-starts-september-17/"
     },
     {
-      "name": "IGN (via Yahoo)",
-      "url": "https://www.yahoo.com/news/politics/articles/gta-6-devs-still-worried-193802732.html"
-    },
-    {
       "name": "GGRecon (Cherry Time)",
       "url": "https://www.ggrecon.com/articles/silksong-sea-of-sorrow-cherry-time/"
     },
     {
       "name": "PlayStation Blog (PS Plus)",
       "url": "https://blog.playstation.com/2026/11/25/playstation-plus-monthly-games-for-december-tony-hawks-pro-skater-34-dragon-ball-xenoverse-2-amnesia-the-bunker/"
+    },
+    {
+      "name": "Gematsu (STARDUST)",
+      "url": "https://www.gematsu.com/2026/11/stardust-wish-of-witch-for-ps5-switch-2-launches-december-14"
     }
   ]
 }
